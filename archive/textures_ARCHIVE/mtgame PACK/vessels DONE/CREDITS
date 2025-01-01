@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------
--- From:    vessels
+-- From:    minetest_game/vessels
 -- Media:   CC BY-SA 3.0
 ---------------------------------------------------------------------------------------------------
 
 unilib_shelf_vessels_overlay.png
-    Adapted from vessels_shelf.png
+    Adapted from /textures/vessels_shelf.png

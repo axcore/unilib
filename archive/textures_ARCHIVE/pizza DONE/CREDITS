@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------------
+-- From:    pizza
+-- Media:   MIT
+---------------------------------------------------------------------------------------------------
+
+unilib_food_pizza_chicken_barbecued_raw.png
+unilib_food_pizza_diavola_raw.png
+unilib_food_pizza_hawaiian_raw.png
+unilib_food_pizza_meat_feast_raw.png
+unilib_food_pizza_quattro_formaggi_raw.png
+unilib_food_pizza_veggie_supreme_raw.png
+    Adapted from /textures/pizza_bmush.png
+unilib_food_pizza_chicken_barbecued_slice.png
+unilib_food_pizza_diavola_slice.png
+unilib_food_pizza_hawaiian_slice.png
+unilib_food_pizza_meat_feast_slice.png
+unilib_food_pizza_quattro_formaggi_slice.png
+unilib_food_pizza_veggie_supreme_slice.png
+    Adapted from /textures/pizza_bmush_slice.png

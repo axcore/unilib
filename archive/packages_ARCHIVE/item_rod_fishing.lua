@@ -363,7 +363,6 @@ minetest.register_on_leaveplayer(function(player)
 	remove_bob(player)
 end)
 
-
 -- remove bob if player dies
 minetest.register_on_dieplayer(function(player)
 	remove_bob(player)

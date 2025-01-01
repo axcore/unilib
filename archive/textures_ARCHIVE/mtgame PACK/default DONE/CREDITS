@@ -1,7 +1,92 @@
 ---------------------------------------------------------------------------------------------------
--- From:    default
+-- From:    minetest_game/default
 -- Media:   CC BY-SA 3.0
 ---------------------------------------------------------------------------------------------------
 
 unilib_furniture_shelf_bookshelf_overlay.png
-    Adapted from default_bookshelf.png
+    Adapted from /textures/default_bookshelf.png
+unilib_grass_marram_african_1.png
+    Adapted from /textures/default_marram_grass_1.png
+unilib_grass_marram_african_2.png
+    Adapted from /textures/default_marram_grass_2.png
+unilib_grass_marram_african_3.png
+    Adapted from /textures/default_marram_grass_3.png
+unilib_grass_marram_american_1.png
+    Adapted from /textures/default_marram_grass_1.png
+unilib_grass_marram_american_2.png
+    Adapted from /textures/default_marram_grass_2.png
+unilib_grass_marram_american_3.png
+    Adapted from /textures/default_marram_grass_3.png
+unilib_grass_marram_baltic_1.png
+    Adapted from /textures/default_marram_grass_1.png
+unilib_grass_marram_baltic_2.png
+    Adapted from /textures/default_marram_grass_2.png
+unilib_grass_marram_baltic_3.png
+    Adapted from /textures/default_marram_grass_3.png
+unilib_grass_marram_european_1.png
+    Adapted from /textures/default_marram_grass_1.png
+unilib_grass_marram_european_2.png
+    Adapted from /textures/default_marram_grass_2.png
+unilib_grass_marram_european_3.png
+    Adapted from /textures/default_marram_grass_3.png
+unilib_ladder_wood_ordinary.png
+    Adapted from /textures/default_ladder_wood.png
+unilib_mineral_diamond_lump.png
+    Original to unilib
+    Media: CC BY-SA 3.0
+unilib_moss_black_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_black_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_blue_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_blue_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_brown_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_brown_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_cyan_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_cyan_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_green_dark_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_green_dark_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_grey_dark_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_grey_dark_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_grey_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_grey_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_magenta_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_magenta_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_orange_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_orange_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_pink_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_pink_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_red_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_red_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_violet_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_violet_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_white_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_white_top.png
+    Adapted from /textures/default_moss.png
+unilib_moss_yellow_side.png
+    Adapted from /textures/default_moss_side.png
+unilib_moss_yellow_top.png
+    Adapted from /textures/default_moss.png

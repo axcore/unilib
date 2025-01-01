@@ -138,4 +138,32 @@ minetest.register_decoration({
     y_min = -1,
     decoration = "fireflies:hidden_firefly",
 })
+
+-- get decoration IDs
+local firefly_low = minetest.get_decoration_id("fireflies:firefly_low")
+local firefly_high = minetest.get_decoration_id("fireflies:firefly_high")
+
+minetest.set_gen_notify({decoration = true}, {firefly_low, firefly_high})
+
+-- start nodetimers
+minetest.register_on_generated(function(minp, maxp, blockseed)
+	local gennotify = minetest.get_mapgen_object("gennotify")
+	local poslist = {}
+
+	for _, pos in ipairs(gennotify["decoration#"..firefly_low] or {}) do
+		local firefly_low_pos = {x = pos.x, y = pos.y + 3, z = pos.z}
+		table.insert(poslist, firefly_low_pos)
+	end
+	for _, pos in ipairs(gennotify["decoration#"..firefly_high] or {}) do
+		local firefly_high_pos = {x = pos.x, y = pos.y + 4, z = pos.z}
+		table.insert(poslist, firefly_high_pos)
+	end
+
+	if #poslist ~= 0 then
+		for i = 1, #poslist do
+			local pos = poslist[i]
+			minetest.get_node_timer(pos):start(1)
+		end
+	end
+end)
 ]]--

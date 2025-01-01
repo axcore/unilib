@@ -3,6 +3,12 @@
 -- Media:   unknown
 ---------------------------------------------------------------------------------------------------
 
+unilib_decor_rockwall_stone_sandstone_desert.png
+    Adapted from /textures/lib_materials_rockwall_stone.png
+unilib_decor_rockwall_stone_sandstone_ordinary.png
+    Adapted from /textures/lib_materials_rockwall_stone.png
+unilib_decor_rockwall_stone_sandstone_silver.png
+    Adapted from /textures/lib_materials_rockwall_stone.png
 unilib_gravel_sandstone_desert.png
     Adapted from darkage, /textures/darkage_cob.png
     Media: WTFPL
@@ -24,21 +30,30 @@ unilib_tree_deciduous_normal_wood.png
 unilib_tree_deciduous_normal_trunk_top.png
     Adapted from minetest_game, /mods/default/textures/default_pine_tree_top.png
     Media: CC BY-SA 3.0
+unilib_tree_fern_yellow_crown_start.png
+    Adapted from lib_ecology, /textures/lib_ecology_plant_banana_plant.png
+unilib_tree_fern_yellow_sapling.png
+    Adapted from plantlife/ferns, /textures/ferns_sapling_tree_fern.png
+    Media: CC-by-SA 4.0
+unilib_tree_fern_yellow_trunk.png
+    Adapted from plantlife/ferns, /textures/ferns_fern_trunk_big.png
+    Media: CC-by-SA 4.0
+unilib_tree_fern_yellow_trunk_apex_overlay.png
+    Adapted from plantlife/ferns, /textures/ferns_tree_fern_leave_big_cross.png
+    Media: CC-by-SA 4.0
+unilib_tree_fern_yellow_trunk_top.png
+    Adapted from plantlife/ferns, /textures/ferns_fern_trunk_big_top.png
+    Media: CC-by-SA 4.0
 unilib_tree_fir_douglas_coast_leaves.png
     Adapted from /lib_ecology/textures/lib_ecology_tree_fir_coast_leaves.png
-    Media: CC BY-SA 3.0
 unilib_tree_fir_douglas_coast_sapling.png
     Adapted from /lib_ecology/textures/lib_ecology_tree_fir_coast_sapling.png
-    Media: CC BY-SA 3.0
 unilib_tree_fir_douglas_coast_trunk.png
     Adapted from /lib_ecology/textures/lib_ecology_tree_fir_coast_trunk.png
-    Media: CC BY-SA 3.0
 unilib_tree_fir_douglas_coast_trunk_top.png
     Adapted from /lib_ecology/textures/lib_ecology_tree_fir_coast_trunk_top.png
-    Media: CC BY-SA 3.0
 unilib_tree_fir_douglas_coast_wood.png
     Adapted from /lib_ecology/textures/lib_ecology_tree_fir_coast_wood.png
-    Media: CC BY-SA 3.0
 unilib_tree_palm_plain_trunk.png
     Adapted from farlands, /mods/mapgen/textures/mapgen_willow_tree.png
     Media: CC-BY-SA 3.0 UNPORTED

@@ -24,6 +24,6 @@ unilib_crop_quadrotriticale_harvest.png
 unilib_crop_quadrotriticale_seed.png
     Adapted from /textures/grains_barley_seed.png
 unilib_food_bread_quadrotriticale.png
-    Adapted from grains_rye_bread.png
+    Adapted from /textures/grains_rye_bread.png
 unilib_ingredient_flour_quadrotriticale.png
-    Adapted from grains_rye_flour.png
+    Adapted from /textures/grains_rye_flour.png

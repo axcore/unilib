@@ -27,5 +27,5 @@ minetest.register_node("ethereal:illumishroom3", {
 		type = "fixed",
 		fixed = {-6 / 16, -0.5, -6 / 16, 6 / 16, 0.47, 6 / 16}
 	}
-})s
+})
 ]]--

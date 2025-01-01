@@ -1,0 +1,56 @@
+---------------------------------------------------------------------------------------------------
+-- From:    real_minerals
+-- Media:   unknown
+---------------------------------------------------------------------------------------------------
+
+unilib_metal_albata_ingot.png
+unilib_metal_aluminium_ingot.png
+unilib_metal_bismuth_ingot.png
+unilib_metal_brass_rare_ingot.png
+unilib_metal_bronze_bismuth_ingot.png
+unilib_metal_bronze_black_ingot.png
+unilib_metal_bronze_rare_ingot.png
+unilib_metal_copper_rare_ingot.png
+unilib_metal_gold_rare_ingot.png
+unilib_metal_gold_rose_ingot.png
+unilib_metal_iron_wrought_rare_ingot.png
+unilib_metal_lead_rare_ingot.png
+unilib_metal_monel_ingot.png
+unilib_metal_nickel_ingot.png
+unilib_metal_oroide_ingot.png
+unilib_metal_platinum_rare_ingot.png
+unilib_metal_silver_german_ingot.png
+unilib_metal_silver_rare_ingot.png
+unilib_metal_silver_sterling_ingot.png
+unilib_metal_steel_black_ingot.png
+unilib_metal_steel_rare_ingot.png
+unilib_metal_tin_rare_ingot.png
+unilib_metal_tumbaga_ingot.png
+unilib_metal_zinc_rare_ingot.png
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
+unilib_metal_albata_powder.png
+unilib_metal_aluminium_powder.png
+unilib_metal_bismuth_powder.png
+unilib_metal_brass_rare_powder.png
+unilib_metal_bronze_bismuth_powder.png
+unilib_metal_bronze_black_powder.png
+unilib_metal_bronze_rare_powder.png
+unilib_metal_copper_rare_powder.png
+unilib_metal_gold_rare_powder.png
+unilib_metal_gold_rose_powder.png
+unilib_metal_lead_rare_powder.png
+unilib_metal_monel_powder.png
+unilib_metal_nickel_powder.png
+unilib_metal_oroide_powder.png
+unilib_metal_platinum_rare_powder.png
+unilib_metal_silver_german_powder.png
+unilib_metal_silver_rare_powder.png
+unilib_metal_silver_sterling_powder.png
+unilib_metal_steel_black_powder.png
+unilib_metal_steel_rare_powder.png
+unilib_metal_tin_rare_powder.png
+unilib_metal_tumbaga_powder.png
+unilib_metal_zinc_rare_powder.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Media: Artistic-2.0

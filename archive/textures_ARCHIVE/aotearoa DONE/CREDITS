@@ -4,21 +4,37 @@
 ---------------------------------------------------------------------------------------------------
 
 unilib_bucket_mud_boiling_overlay.png
-    Adapted from aotearoa_boiling_mud.png
+    Adapted from /textures/aotearoa_boiling_mud.png
 unilib_dirt_antipodean.png
     Adapted from minetest_game, /mods/default/textures/default_rainforest_litter.png
     Media: CC BY-SA 3.0
+unilib_dirt_antipodean_dark_with_moss_side_overlay.png
+    Adapted from /textures/aotearoa_dirt_with_moss_side.png
+unilib_dirt_antipodean_dark_with_moss_top.png
+    Adapted from /textures/aotearoa_dirt_with_moss.png
+unilib_dirt_antipodean_with_litter_beech_side_overlay.png
+    Adapted from /textures/aotearoa_dirt_with_beech_litter_side.png
+unilib_dirt_antipodean_with_litter_beech_top.png
+    Adapted from /textures/aotearoa_dirt_with_beech_litter.png
+unilib_dirt_antipodean_with_litter_wet_side_overlay.png
+    Adapted from /textures/aotearoa_dirt_with_dark_litter_side
+unilib_dirt_antipodean_with_litter_wet_top.png
+    Adapted from /textures/aotearoa_dirt_with_dark_litter
 unilib_food_cake_seed.png
-    Adapted from aotearoa_pungapunga.png
+    Adapted from /textures/aotearoa_pungapunga.png
 unilib_food_root_raupo_cooked.png
-    Adapted from aotearoa_cooked_bracken_root.png
+    Adapted from /textures/aotearoa_cooked_bracken_root.png
 unilib_food_shoots_nikau_cooked.png
-    Adapted from aotearoa_cooked_cabbage_tree_shoots.png
+    Adapted from /textures/aotearoa_cooked_cabbage_tree_shoots.png
+unilib_tool_shovel_pounamu_enchanted_overlay.png
+    Adapted from /textures/aotearoa_shovel_green.png
+unilib_tool_shovel_pounamu_enlightened_overlay.png
+    Adapted from /textures/aotearoa_shovel_green.png
 unilib_tree_mamaku_sapling.png
-    Adapted from aotearoa_tree_fern_spores.png
+    Adapted from /textures/aotearoa_tree_fern_spores.png
 unilib_tree_mamaku_trunk_top.png
-    Adapted from aotearoa_tree_fern_top.png
+    Adapted from /textures/aotearoa_tree_fern_top.png
 unilib_tree_wheki_sapling.png
-    Adapted from aotearoa_tree_fern_spores.png
+    Adapted from /textures/aotearoa_tree_fern_spores.png
 unilib_tree_wheki_trunk_top.png
-    Adapted from aotearoa_tree_fern_top.png
+    Adapted from /textures/aotearoa_tree_fern_top.png

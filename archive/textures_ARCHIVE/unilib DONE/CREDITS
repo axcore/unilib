@@ -3,6 +3,10 @@
 -- Media:   CC BY-SA 3.0
 ---------------------------------------------------------------------------------------------------
 
+unilib_admin_tool_tester_general.png
+    Original to unilib
+unilib_admin_tool_tester_schematic.png
+    Original to unilib
 unilib_admin_tool_vapouriser.png
     Original to unilib
 unilib_admin_trampoline_invisible.png
@@ -85,12 +89,122 @@ unilib_container_chest_compact_side.png
 unilib_container_chest_compact_top.png
     Adapted from minetest_game, /mods/default/textures/default_chest_top.png
     Media: CC BY-SA 3.0
+unilib_cover_vine_side_overlay.png
+    Original to unilib
+unilib_dirt_permafrost_blue.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_blue_compressed.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_blue_dark.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_blue_dark_compressed.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_brown.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_brown_compressed.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_brown_dark.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_brown_dark_compressed.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_green.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_green_compressed.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_green_dark.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_green_dark_compressed.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_red.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_red_compressed.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_red_dark.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_dirt_permafrost_red_dark_compressed.png
+    Adapted from minetest_game, /mods/default/textures/default_permafrost.png
+    Media: CC BY-SA 3.0
+unilib_food_jam_blackberry.png
+    Adapted from cucina_vegana, /textures/16x16/cucina_vegana_blueberry_jam.png
+    Media: LGPL3.0
+unilib_food_jam_gooseberry.png
+    Adapted from cucina_vegana, /textures/16x16/cucina_vegana_blueberry_jam.png
+    Media: LGPL3.0
+unilib_food_jam_raspberry.png
+    Adapted from cucina_vegana, /textures/16x16/cucina_vegana_blueberry_jam.png
+    Media: LGPL3.0
+unilib_food_jam_strawberry.png
+    Adapted from cucina_vegana, /textures/16x16/cucina_vegana_blueberry_jam.png
+    Media: LGPL3.0
+unilib_food_puree_blackberry.png
+    Adapted from cucina_vegana, /textures/16x16/cucina_vegana_blueberry_puree.png
+    Media: LGPL3.0
+unilib_food_puree_gooseberry.png
+    Adapted from cucina_vegana, /textures/16x16/cucina_vegana_blueberry_puree.png
+    Media: LGPL3.0
+unilib_food_puree_raspberry.png
+    Adapted from cucina_vegana, /textures/16x16/cucina_vegana_blueberry_puree.png
+    Media: LGPL3.0
+unilib_food_puree_strawberry.png
+    Adapted from cucina_vegana, /textures/16x16/cucina_vegana_blueberry_puree.png
+    Media: LGPL3.0    
 unilib_gravel_sandstone_ordinary.png
     Adapted from darkage, /textures/darkage_cob.png
     Media: WTFPL
 unilib_gravel_sandstone_silver.png
     Adapted from darkage, /textures/darkage_cob.png
     Media: WTFPL
+unilib_food_burger_veggie.png
+    Original to unilib
+unilib_food_corn_cob_flint.png
+    Adapted from farming_redo, /textures/farming_corn_cob.png
+    Media: CC BY-SA 3.0/CC0
+unilib_food_pasta_surprise.png
+    Original to unilib
+unilib_food_pie_potato_sweet.png
+    Original to unilib
+unilib_food_sandwich_cheese_cucumber.png
+    Original to unilib
+unilib_food_sandwich_worm.png
+    Original to unilib
+unilib_food_smoothie_blackberry.png
+    Adapted from farming_redo, /textures/farming_raspberry_smoothie.png
+    Media: CC BY-SA 3.0/CC0
+unilib_food_smoothie_blueberry.png
+    Adapted from farming_redo, /textures/farming_raspberry_smoothie.png
+    Media: CC BY-SA 3.0/CC0
+unilib_food_smoothie_gooseberry.png
+    Adapted from farming_redo, /textures/farming_raspberry_smoothie.png
+    Media: CC BY-SA 3.0/CC0
+unilib_food_smoothie_strawberry.png
+    Adapted from farming_redo, /textures/farming_raspberry_smoothie.png
+    Media: CC BY-SA 3.0/CC0
+unilib_food_wormburger.png
+    Original to unilib
+unilib_gravel_sandstone.png
+    Adapted from darkage, /textures/darkage_cob.png
+    Media: WTFPL
+unilib_gravel_sandstone_compressed.png
+    Adapted from darkage, /textures/darkage_cob.png
+    Media: WTFPL
+unilib_gui_discard.png
+unilib_gui_discard_all.png
+    Original to unilib
 unilib_liquid_water_dyed.png
     Adapted from minetest_game, /mods/default/textures/default_water.png
     Media: CC BY-SA 3.0
@@ -100,57 +214,151 @@ unilib_liquid_water_dyed_flowing_animated.png
 unilib_liquid_water_dyed_source_animated.png
     Adapted from minetest_game, /mods/default/textures/default_water_source_animated.png
     Media: CC BY-SA 3.0
+unilib_machine_atomic_collector_bottom.png
+    Original to unilib
+unilib_machine_atomic_collector_front.png
+    Original to unilib
+unilib_machine_atomic_collector_side.png
+    Original to unilib
+unilib_machine_atomic_collector_top.png
+    Original to unilib
+unilib_machine_atomic_vapouriser_bottom.png
+    Original to unilib
+unilib_machine_atomic_vapouriser_front.png
+    Original to unilib
+unilib_machine_atomic_vapouriser_side.png
+    Original to unilib
+unilib_machine_atomic_vapouriser_top.png
+    Original to unilib
+unilib_machine_furnace_induction_active_front.png
+    Original to unilib
+unilib_machine_furnace_induction_bottom.png
+    Original to unilib
+unilib_machine_furnace_induction_inactive_front.png
+    Original to unilib
+unilib_machine_furnace_induction_side.png
+    Original to unilib
+unilib_machine_furnace_induction_top.png
+    Original to unilib
+unilib_machine_polishing_bottom.png
+    Original to unilib
+unilib_machine_polishing_front.png
+    Original to unilib
+unilib_machine_polishing_side.png
+    Original to unilib
+unilib_machine_polishing_top.png
+    Original to unilib
+unilib_machine_polishing_top_active.png
+    Original to unilib
+unilib_machine_renovation.png
+    Original to unilib
+unilib_machine_renovation_side.png
+    Original to unilib
+unilib_machine_switch_day_off.png
+    Original to unilib
+unilib_machine_switch_day_on.png
+    Original to unilib
+unilib_machine_switch_day_side.png
+    Original to unilib
+unilib_machine_switch_night_off.png
+    Original to unilib
+unilib_machine_switch_night_on.png
+    Original to unilib
+unilib_machine_switch_night_side.png
+    Original to unilib
+unilib_machine_table_enlightening_side.png
+    Adapted from xdecor, /textures/xdecor_enchantment_side.png
+    Media: WTFPL/CC BY-SA/CC BY 3.0
+unilib_machine_table_enlightening_top.png
+    Adapted from xdecor, /textures/xdecor_enchantment_top.png
+    Media: WTFPL/CC BY-SA/CC BY 3.0
+unilib_machine_turfing.png
+    Original to unilib
+unilib_machine_turfing_side.png
+    Original to unilib
+unilib_mask_misc_shield_mounted_barry.png
+    Original to unilib
+unilib_mask_misc_shield_mounted_bend.png
+    Adapted from castle, /castle_shields/textures/castle_shield_mask_slash.png
+    Media: MIT
+unilib_mask_misc_shield_mounted_checkly.png
+    Original to unilib
+unilib_mask_misc_shield_mounted_chevron_sinister.png
+    Adapted from castle, /castle_shields/textures/castle_shield_mask_chevron.png
+    Media: MIT
+unilib_mask_misc_shield_mounted_fess.png
+    Original to unilib
+unilib_mask_misc_shield_mounted_pale.png
+    Original to unilib
+unilib_mask_misc_shield_mounted_paly.png
+    Original to unilib
+unilib_mask_misc_shield_mounted_per_bend.png
+    Original to unilib
+unilib_mask_misc_shield_mounted_per_fess.png
+    Original to unilib
+unilib_mask_misc_shield_mounted_per_pale.png
+    Original to unilib
+unilib_mask_misc_shield_mounted_per_saltire.png
+    Original to unilib
+unilib_mask_misc_shield_mounted_quarterly.png
+    Original to unilib
+unilib_mask_misc_shield_mounted_saltire.png
+    Original to unilib
+unilib_mask_pebble_large.png
+    Original to unilib
+unilib_mask_pebble_small.png
+    Original to unilib
 unilib_metal_actinium_sample.png
     Original to unilib
 unilib_metal_americium_sample.png
     Original to unilib
 unilib_metal_antimony_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_arsenic_sample.png
     Original to unilib
 unilib_metal_barium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_berkelium_sample.png
     Original to unilib
 unilib_metal_beryllium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_bohrium_sample.png
     Original to unilib
 unilib_metal_boron_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_cadmium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_cadmium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_cadmium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_caesium_sample.png
     Original to unilib
 unilib_metal_calcium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_californium_sample.png
     Original to unilib
 unilib_metal_cerium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_cobalt_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_cobalt_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_cobalt_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
-unilib_metal_copernecium_sample.png
+unilib_metal_copernicium_sample.png
     Original to unilib
 unilib_metal_curium_sample.png
     Original to unilib
@@ -159,7 +367,7 @@ unilib_metal_darmstadtium_sample.png
 unilib_metal_dubnium_sample.png
     Original to unilib
 unilib_metal_dysprosium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_einsteinium_sample.png
     Original to unilib
@@ -167,10 +375,10 @@ unilib_metal_erbium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_erbium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_erbium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_europium_sample.png
     Original to unilib
@@ -181,88 +389,88 @@ unilib_metal_flerovium_sample.png
 unilib_metal_francium_sample.png
     Original to unilib
 unilib_metal_gadolinium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_gallium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_gallium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_gallium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_germanium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_germanium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_germanium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_hafnium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_hafnium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_hafnium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_hassium_sample.png
     Original to unilib
 unilib_metal_holmium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_indium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_indium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_indium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_iridium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_iridium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_iridium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_lanthanum_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_lawrencium_sample.png
     Original to unilib
 unilib_metal_lithium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_livermorium_sample.png
     Original to unilib
 unilib_metal_lutetium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_magnesium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_magnesium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_magnesium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_manganese_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_manganese_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_manganese_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_meitnerium_sample.png
     Original to unilib
@@ -274,15 +482,15 @@ unilib_metal_molybdenum_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_molybdenum_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_molybdenum_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_moscovium_sample.png
     Original to unilib
 unilib_metal_neodymium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_neptunium_sample.png
     Original to unilib
@@ -292,10 +500,10 @@ unilib_metal_niobium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_niobium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_niobium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_nobelium_sample.png
     Original to unilib
@@ -303,38 +511,38 @@ unilib_metal_osmium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_osmium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_osmium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_palladium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_palladium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_palladium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_platinum_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_platinum_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_platinum_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_plutonium_sample.png
     Original to unilib
 unilib_metal_polonium_sample.png
     Original to unilib
 unilib_metal_potassium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_praseodymium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_promethium_sample.png
     Original to unilib
@@ -348,10 +556,10 @@ unilib_metal_rhodium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_rhodium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_rhodium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_roentgenium_sample.png
     Original to unilib
@@ -361,115 +569,115 @@ unilib_metal_ruthenium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_ruthenium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_ruthenium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_rutherfordium_sample.png
     Original to unilib
 unilib_metal_samarium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_scandium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_scandium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_scandium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_seaborgium_sample.png
     Original to unilib
 unilib_metal_silicon_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_sodium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_strontium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_tantalum_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_tantalum_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_tantalum_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_technetium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_technetium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_technetium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_tellurium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_tellurium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_tellurium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_terbium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_thallium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_thorium_sample.png
     Original to unilib
 unilib_metal_thulium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_titanium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_titanium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_titanium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_tungsten_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_tungsten_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_tungsten_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_vanadium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_vanadium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_vanadium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_metal_ytterbium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_yttrium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_metal_zirconium_block.png
     Adapted from minetest_game, /mods/default/textures/default_steel_block.png
     Media: CC BY-SA 3.0
 unilib_metal_zirconium_ingot.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/ingot.png
-    Media: Artistic-2.0
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_metal_zirconium_powder.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
     Media: Artistic-2.0
 unilib_mineral_acanthite_rock.png
     Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/acanthite.png
@@ -580,6 +788,12 @@ unilib_mineral_cryolite_rock.png
 unilib_mineral_descloizite_rock.png
     Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/descloizite.png
     Media: GPL 3.0
+unilib_mineral_dilithium.png
+    Original to unilib
+unilib_mineral_dilithium_lump.png
+    Original to unilib
+unilib_mineral_dilithium_rock.png
+    Original to unilib
 unilib_mineral_enargite_rock.png
     Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/enargite.png
     Media: GPL 3.0
@@ -610,7 +824,7 @@ unilib_mineral_greenockite_rock.png
     Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/greenockite.png
     Media: GPL 3.0
 unilib_mineral_halite.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/halite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/halite.png
     Media: Artistic-2.0
 unilib_mineral_hausmannite_rock.png
     Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/hausmannite.png
@@ -692,6 +906,18 @@ unilib_mineral_perlite.png
 unilib_mineral_phosphorite_rock.png
     Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/phosphorite.png
     Media: GPL 3.0
+unilib_mineral_pietersite.png
+    Original to unilib
+unilib_mineral_pietersite_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_pietersite_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_pietersite_lump.png
+    Original to unilib
+unilib_mineral_pietersite_rock.png
+    Original to unilib
 unilib_mineral_pitchblende_rock.png
     Original to unilib
 unilib_mineral_platinum_native_rock.png
@@ -754,7 +980,7 @@ unilib_mineral_strontianite_rock.png
     Media: GPL 3.0
 unilib_mineral_sugilite_rock.png
     Original to unilib
-unilib_mineral_sulphur_real_rock.png
+unilib_mineral_sulphur_rare_rock.png
     Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/sulphur.png
     Media: GPL 3.0
 unilib_mineral_tanzanite_rock.png
@@ -809,6 +1035,14 @@ unilib_mineral_zeolite.png
 unilib_mineral_zircon_rock.png
     Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/zircon.png
     Media: GPL 3.0
+unilib_misc_atomic_tube_active.png
+    Original to unilib
+unilib_misc_atomic_tube_broken.png
+    Original to unilib
+unilib_misc_atomic_tube_inactive.png
+    Original to unilib
+unilib_misc_atomic_tube_side.png
+    Original to unilib
 unilib_misc_calendar_bg_ancient.png
     Original to unilib
 unilib_misc_calendar_bg_anniversary.png
@@ -830,6 +1064,12 @@ unilib_misc_calendar_event_other_overlay.png
 unilib_misc_calendar_fancy.png
     Original to unilib
 unilib_misc_calendar_simple.png
+    Original to unilib
+unilib_misc_pile_wood_front_overlay.png
+    Original to unilib
+unilib_misc_pile_wood_side_overlay.png
+    Original to unilib
+unilib_misc_pile_wood_top_overlay.png
     Original to unilib
 unilib_numeric_overlay_0.png
     Original to unilib
@@ -871,17 +1111,307 @@ unilib_numeric_overlay_18.png
     Original to unilib
 unilib_numeric_overlay_19.png
     Original to unilib
+unilib_palette_dye_basic.png
+    Original to unilib
+unilib_sampling_actinium.png
+    Original to unilib
+unilib_sampling_aluminium.png
+    Original to unilib
+unilib_sampling_americium.png
+    Original to unilib
+unilib_sampling_antimony.png
+    Original to unilib
+unilib_sampling_argon.png
+    Original to unilib
+unilib_sampling_arsenic.png
+    Original to unilib
+unilib_sampling_astatine.png
+    Original to unilib
+unilib_sampling_barium.png
+    Original to unilib
+unilib_sampling_berkelium.png
+    Original to unilib
+unilib_sampling_beryllium.png
+    Original to unilib
+unilib_sampling_bismuth.png
+    Original to unilib
+unilib_sampling_bohrium.png
+    Original to unilib
+unilib_sampling_boron.png
+    Original to unilib
+unilib_sampling_bromine.png
+    Original to unilib
+unilib_sampling_cadmium.png
+    Original to unilib
+unilib_sampling_caesium.png
+    Original to unilib
+unilib_sampling_calcium.png
+    Original to unilib
+unilib_sampling_californium.png
+    Original to unilib
+unilib_sampling_carbon.png
+    Original to unilib
+unilib_sampling_cerium.png
+    Original to unilib
+unilib_sampling_chlorine.png
+    Original to unilib
+unilib_sampling_chromium.png
+    Original to unilib
+unilib_sampling_cobalt.png
+    Original to unilib
+unilib_sampling_copernecium.png
+    Original to unilib
+unilib_sampling_copper.png
+    Original to unilib
+unilib_sampling_curium.png
+    Original to unilib
+unilib_sampling_darmstadtium.png
+    Original to unilib
+unilib_sampling_dubnium.png
+    Original to unilib
+unilib_sampling_dysprosium.png
+    Original to unilib
+unilib_sampling_einsteinium.png
+    Original to unilib
+unilib_sampling_erbium.png
+    Original to unilib
+unilib_sampling_europium.png
+    Original to unilib
+unilib_sampling_fermium.png
+    Original to unilib
+unilib_sampling_flerovium.png
+    Original to unilib
+unilib_sampling_fluorine.png
+    Original to unilib
+unilib_sampling_francium.png
+    Original to unilib
+unilib_sampling_gadolinium.png
+    Original to unilib
+unilib_sampling_gallium.png
+    Original to unilib
+unilib_sampling_germanium.png
+    Original to unilib
+unilib_sampling_gold.png
+    Original to unilib
+unilib_sampling_hafnium.png
+    Original to unilib
+unilib_sampling_hassium.png
+    Original to unilib
+unilib_sampling_helium.png
+    Original to unilib
+unilib_sampling_holmium.png
+    Original to unilib
+unilib_sampling_hydrogen.png
+    Original to unilib
+unilib_sampling_indium.png
+    Original to unilib
+unilib_sampling_iodine.png
+    Original to unilib
+unilib_sampling_iridium.png
+    Original to unilib
+unilib_sampling_iron.png
+    Original to unilib
+unilib_sampling_krypton.png
+    Original to unilib
+unilib_sampling_lanthanum.png
+    Original to unilib
+unilib_sampling_lawrencium.png
+    Original to unilib
+unilib_sampling_lead.png
+    Original to unilib
+unilib_sampling_lithium.png
+    Original to unilib
+unilib_sampling_livermorium.png
+    Original to unilib
+unilib_sampling_lutetium.png
+    Original to unilib
+unilib_sampling_magnesium.png
+    Original to unilib
+unilib_sampling_manganese.png
+    Original to unilib
+unilib_sampling_meitnerium.png
+    Original to unilib
+unilib_sampling_mendelevium.png
+    Original to unilib
+unilib_sampling_mercury.png
+    Original to unilib
+unilib_sampling_molybdenum.png
+    Original to unilib
+unilib_sampling_moscovium.png
+    Original to unilib
+unilib_sampling_neodymium.png
+    Original to unilib
+unilib_sampling_neon.png
+    Original to unilib
+unilib_sampling_neptunium.png
+    Original to unilib
+unilib_sampling_nickel.png
+    Original to unilib
+unilib_sampling_nihonium.png
+    Original to unilib
+unilib_sampling_niobium.png
+    Original to unilib
+unilib_sampling_nitrogen.png
+    Original to unilib
+unilib_sampling_nobelium.png
+    Original to unilib
+unilib_sampling_oganesson.png
+    Original to unilib
+unilib_sampling_osmium.png
+    Original to unilib
+unilib_sampling_oxygen.png
+    Original to unilib
+unilib_sampling_palladium.png
+    Original to unilib
+unilib_sampling_phosphorus.png
+    Original to unilib
+unilib_sampling_platinum.png
+    Original to unilib
+unilib_sampling_plutonium.png
+    Original to unilib
+unilib_sampling_polonium.png
+    Original to unilib
+unilib_sampling_potassium.png
+    Original to unilib
+unilib_sampling_praseodymium.png
+    Original to unilib
+unilib_sampling_promethium.png
+    Original to unilib
+unilib_sampling_protactinium.png
+    Original to unilib
+unilib_sampling_radium.png
+    Original to unilib
+unilib_sampling_radon.png
+    Original to unilib
+unilib_sampling_rhenium.png
+    Original to unilib
+unilib_sampling_rhodium.png
+    Original to unilib
+unilib_sampling_roentgenium.png
+    Original to unilib
+unilib_sampling_rubidium.png
+    Original to unilib
+unilib_sampling_ruthenium.png
+    Original to unilib
+unilib_sampling_rutherfordium.png
+    Original to unilib
+unilib_sampling_samarium.png
+    Original to unilib
+unilib_sampling_scandium.png
+    Original to unilib
+unilib_sampling_seaborgium.png
+    Original to unilib
+unilib_sampling_selenium.png
+    Original to unilib
+unilib_sampling_silicon.png
+    Original to unilib
+unilib_sampling_silver.png
+    Original to unilib
+unilib_sampling_smoke.png
+    Original to unilib
+unilib_sampling_sodium.png
+    Original to unilib
+unilib_sampling_strontium.png
+    Original to unilib
+unilib_sampling_sulphur.png
+    Original to unilib
+unilib_sampling_tantalum.png
+    Original to unilib
+unilib_sampling_technetium.png
+    Original to unilib
+unilib_sampling_tellurium.png
+    Original to unilib
+unilib_sampling_tennessine.png
+    Original to unilib
+unilib_sampling_terbium.png
+    Original to unilib
+unilib_sampling_thallium.png
+    Original to unilib
+unilib_sampling_thorium.png
+    Original to unilib
+unilib_sampling_thulium.png
+    Original to unilib
+unilib_sampling_tin.png
+    Original to unilib
+unilib_sampling_titanium.png
+    Original to unilib
+unilib_sampling_tungsten.png
+    Original to unilib
+unilib_sampling_uranium.png
+    Original to unilib
+unilib_sampling_vanadium.png
+    Original to unilib
+unilib_sampling_xenon.png
+    Original to unilib
+unilib_sampling_ytterbium.png
+    Original to unilib
+unilib_sampling_yttrium.png
+    Original to unilib
+unilib_sampling_zinc.png
+    Original to unilib
+unilib_sampling_zirconium.png
+    Original to unilib
+unilib_sand_basalt_dark.png
+    Original to unilib
 unilib_sand_beige.png
     Original to unilib
+unilib_sand_biogenic.png
+    Original to unilib
 unilib_sand_brown.png
+    Original to unilib
+unilib_sand_coral.png
+    Original to unilib
+unilib_sand_feldspar.png
+    Original to unilib
+unilib_sand_garnet_antipodean.png
+    Original to unilib
+unilib_sand_glassy.png
+    Original to unilib
+unilib_sand_golden.png
+    Adapted from minetest_game, /mods/default/textures/default_desert_sandstone_block.png
+    Media: CC BY-SA 3.0
+unilib_sand_golden_compressed.png
+    Adapted from minetest_game, /mods/default/textures/default_desert_sandstone_block.png
+    Media: CC BY-SA 3.0
+unilib_sand_greensand_dark.png
+    Original to unilib
+unilib_sand_greensand_pale.png
+    Original to unilib
+unilib_sand_gypsum.png
+    Original to unilib
+unilib_sand_haematite.png
+    Original to unilib
+unilib_sand_immature.png
+    Original to unilib
+unilib_sand_lithic.png
+    Original to unilib
+unilib_sand_ooid.png
     Original to unilib
 unilib_sand_pink.png
     Original to unilib
 unilib_sand_red.png
     Original to unilib
+unilib_sand_serpentine.png
+    Original to unilib
+unilib_sand_volcanic_fine.png
+    Original to unilib
+unilib_sand_volcanic_glass.png
+    Original to unilib
 unilib_stone_desert_powder.png
     Adapted from technic, /technic/textures/technic_stone_dust.png
     Media: unknown
+unilib_stone_sandstone_golden.png
+    Adapted from minetest_game, /mods/default/textures/default_desert_sand.png
+    Media: CC BY-SA 3.0
+unilib_stone_sandstone_golden_block.png
+    Adapted from minetest_game, /mods/default/textures/default_desert_sandstone_block.png
+    Media: CC BY-SA 3.0
+unilib_stone_sandstone_golden_brick.png
+    Adapted from minetest_game, /mods/default/textures/default_desert_sandstone_brick.png
+    Media: CC BY-SA 3.0
+unilib_stone_sandstone_golden_cobble.png
+    Adapted from mtg_plus, /textures/mtg_plus_desert_sandstone_cobble.png
+    Media: CC-BY-SA 3.0/CC-BY 3.0/MIT
 unilib_substance_argon_sample.png
     Original to unilib
 unilib_substance_astatine_sample.png
@@ -915,12 +1445,72 @@ unilib_substance_phosphorus_sample.png
 unilib_substance_radon_sample.png
     Original to unilib
 unilib_substance_selenium_chunk.png
-    Adapted from pfaa, /src/main/resources/assets/chemica/textures/items/crushed.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/crushed.png
     Media: Artistic-2.0
 unilib_substance_tennessine_sample.png
     Original to unilib
 unilib_substance_xenon_sample.png
     Original to unilib
+unilib_tool_axe_enchanted_overlay.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_steelaxe.png
+    Media: CC BY-SA 3.0
+unilib_tool_axe_enlightened_overlay.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_steelaxe.png
+    Media: CC BY-SA 3.0
+unilib_tool_hoe_enchanted_overlay.png
+    Adapted from farming_redo, /textures/farming_hoe_steelhoe.png
+    Media: CC BY-SA 3.0/CC0
+unilib_tool_chainsaw_enchanted_overlay.png
+    Adapted from xtraores, /xtraores/textures/xtraores_axe_unobtainium.png
+    Media: unknown
+unilib_tool_chainsaw_enlightened_overlay.png
+    Adapted from xtraores, /xtraores/textures/xtraores_axe_unobtainium.png
+    Media: unknown
+unilib_tool_drill_enchanted_overlay.png
+    Adapted from xtraores, /xtraores/textures/xtraores_drill_unobtainium.png
+    Media: unknown
+unilib_tool_drill_enlightened_overlay.png
+    Adapted from xtraores, /xtraores/textures/xtraores_drill_unobtainium.png
+    Media: unknown
+unilib_tool_hoe_enlightened_overlay.png
+    Adapted from farming_redo, /textures/farming_hoe_steelhoe.png
+    Media: CC BY-SA 3.0/CC0
+unilib_tool_pick_enchanted_overlay.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_steelpick.png
+    Media: CC BY-SA 3.0
+unilib_tool_pick_enlightened_overlay.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_steelpick.png
+    Media: CC BY-SA 3.0
+unilib_tool_scythe_enchanted_overlay.png
+    Adapted from sickles, /textures/sickles_scythe_steel.png
+    Media: CC BY-SA 3.0/4.0
+unilib_tool_scythe_enlightened_overlay.png
+    Adapted from sickles, /textures/sickles_scythe_steel.png
+    Media: CC BY-SA 3.0/4.0
+unilib_tool_sickle_enchanted_overlay.png
+    Adapted from sickles, /textures/sickles_sickle_steel.png
+    Media: CC BY-SA 3.0/4.0
+unilib_tool_sickle_enlightened_overlay.png
+    Adapted from sickles, /textures/sickles_sickle_steel.png
+    Media: CC BY-SA 3.0/4.0
+unilib_tool_shovel_enchanted_overlay.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_steelshovel.png
+    Media: CC BY-SA 3.0
+unilib_tool_shovel_enlightened_overlay.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_steelshovel.png
+    Media: CC BY-SA 3.0
+unilib_tool_spear_enchanted_overlay.png
+    Adapted from xtraores, /xtraores/textures/xtraores_spear_unobtainium.png
+    Media: unknown
+unilib_tool_spear_enlightened_overlay.png
+    Adapted from xtraores, /xtraores/textures/xtraores_spear_unobtainium.png
+    Media: unknown
+unilib_tool_sword_enchanted_overlay.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_steelsword.png
+    Media: CC BY-SA 3.0
+unilib_tool_sword_enlightened_overlay.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_steelsword.png
+    Media: CC BY-SA 3.0
 unilib_tree_lemon_trunk.png
     Original to unilib
 unilib_tree_lemon_trunk_top.png
@@ -936,6 +1526,633 @@ unilib_unknown_3.png
 unilib_unknown_4.png
     Original to unilib
 unilib_unknown_5.png
-    Original to unilib
+    Original to unilib    
 
+---------------------------------------------------------------------------------------------------
+-- From:    Composite textures from various source mods
+-- Media:   Each mod's original licence can be found in /licences 
+---------------------------------------------------------------------------------------------------
 
+unilib_stone_andesite_antipodean_cobble_compressed.png
+unilib_stone_andesite_antipodean_cobble_condensed.png
+unilib_stone_andesite_grey_cobble_compressed.png
+unilib_stone_andesite_grey_cobble_condensed.png
+unilib_stone_andesite_pale_cobble_compressed.png
+unilib_stone_andesite_pale_cobble_condensed.png
+unilib_stone_andesite_white_cobble_compressed.png
+unilib_stone_andesite_white_cobble_condensed.png
+unilib_stone_basalt_black_cobble_compressed.png
+unilib_stone_basalt_black_cobble_condensed.png
+unilib_stone_basalt_brown_cobble_compressed.png
+unilib_stone_basalt_brown_cobble_condensed.png
+unilib_stone_basalt_dark_rubble_compressed.png
+unilib_stone_basalt_dark_rubble_condensed.png
+unilib_stone_basalt_grey_cobble_compressed.png
+unilib_stone_basalt_grey_cobble_condensed.png
+unilib_stone_basalt_pale_cobble_compressed.png
+unilib_stone_basalt_pale_cobble_condensed.png
+unilib_stone_basalt_red_cobble_compressed.png
+unilib_stone_basalt_red_cobble_condensed.png
+unilib_stone_bluestone_cobble_compressed.png
+unilib_stone_bluestone_cobble_condensed.png
+unilib_stone_breccia_rubble_compressed.png
+unilib_stone_breccia_rubble_condensed.png
+unilib_stone_brownstone_dark_rubble_compressed.png
+unilib_stone_brownstone_dark_rubble_condensed.png
+unilib_stone_brownstone_pale_rubble_compressed.png
+unilib_stone_brownstone_pale_rubble_condensed.png
+unilib_stone_carbonatite_rubble_compressed.png
+unilib_stone_carbonatite_rubble_condensed.png
+unilib_stone_chalk_pink_cobble_compressed.png
+unilib_stone_chalk_pink_cobble_condensed.png
+unilib_stone_chalk_yellow_cobble_compressed.png
+unilib_stone_chalk_yellow_cobble_condensed.png
+unilib_stone_chert_cobble_compressed.png
+unilib_stone_chert_cobble_condensed.png
+unilib_stone_claystone_red_rubble_compressed.png
+unilib_stone_claystone_red_rubble_condensed.png
+unilib_stone_claystone_white_rubble_compressed.png
+unilib_stone_claystone_white_rubble_condensed.png
+unilib_stone_conglomerate_normal_compressed.png
+unilib_stone_conglomerate_normal_condensed.png
+unilib_stone_conglomerate_rough_rubble_compressed.png
+unilib_stone_conglomerate_rough_rubble_condensed.png
+unilib_stone_dacite_cobble_compressed.png
+unilib_stone_dacite_cobble_condensed.png
+unilib_stone_diorite_dark_compressed.png
+unilib_stone_diorite_dark_condensed.png
+unilib_stone_dolostone_dark_rubble_compressed.png
+unilib_stone_dolostone_dark_rubble_condensed.png
+unilib_stone_eclogite_cobble_compressed.png
+unilib_stone_eclogite_cobble_condensed.png
+unilib_stone_gabbro_grey_cobble_compressed.png
+unilib_stone_gabbro_grey_cobble_condensed.png
+unilib_stone_gabbro_red_compressed.png
+unilib_stone_gabbro_red_condensed.png
+unilib_stone_gneiss_antipodean_cobble_compressed.png
+unilib_stone_gneiss_antipodean_cobble_condensed.png
+unilib_stone_gneiss_brown_cobble_compressed.png
+unilib_stone_gneiss_brown_cobble_condensed.png
+unilib_stone_gneiss_grey_cobble_compressed.png
+unilib_stone_gneiss_grey_cobble_condensed.png
+unilib_stone_gneiss_white_rubble_compressed.png
+unilib_stone_gneiss_white_rubble_condensed.png
+unilib_stone_granite_antipodean_cobble_compressed.png
+unilib_stone_granite_antipodean_cobble_condensed.png
+unilib_stone_granite_black_cobble_compressed.png
+unilib_stone_granite_black_cobble_condensed.png
+unilib_stone_granite_brown_cobble_compressed.png
+unilib_stone_granite_brown_cobble_condensed.png
+unilib_stone_granite_dark_compressed.png
+unilib_stone_granite_dark_condensed.png
+unilib_stone_granite_ebony_cobble_compressed.png
+unilib_stone_granite_ebony_cobble_condensed.png
+unilib_stone_granite_grey_cobble_compressed.png
+unilib_stone_granite_grey_cobble_condensed.png
+unilib_stone_granite_orange_cobble_compressed.png
+unilib_stone_granite_orange_cobble_condensed.png
+unilib_stone_granite_pale_cobble_compressed.png
+unilib_stone_granite_pale_cobble_condensed.png
+unilib_stone_granite_pink_cobble_compressed.png
+unilib_stone_granite_pink_cobble_condensed.png
+unilib_stone_granite_red_cobble_compressed.png
+unilib_stone_granite_red_cobble_condensed.png
+unilib_stone_granite_white_cobble_compressed.png
+unilib_stone_granite_white_cobble_condensed.png
+unilib_stone_greenstone_cobble_compressed.png
+unilib_stone_greenstone_cobble_condensed.png
+unilib_stone_greywacke_dark_cobble_compressed.png
+unilib_stone_greywacke_dark_cobble_condensed.png
+unilib_stone_greywacke_pale_cobble_compressed.png
+unilib_stone_greywacke_pale_cobble_condensed.png
+unilib_stone_hornfels_compressed.png
+unilib_stone_hornfels_condensed.png
+unilib_stone_jungle_cobble_compressed.png
+unilib_stone_jungle_cobble_condensed.png
+unilib_stone_komatiite_cobble_compressed.png
+unilib_stone_komatiite_cobble_condensed.png
+unilib_stone_laterite_rubble_compressed.png
+unilib_stone_laterite_rubble_condensed.png
+unilib_stone_limestone_antipodean_rubble_compressed.png
+unilib_stone_limestone_antipodean_rubble_condensed.png
+unilib_stone_limestone_beige_rubble_compressed.png
+unilib_stone_limestone_beige_rubble_condensed.png
+unilib_stone_limestone_coquina_rubble_compressed.png
+unilib_stone_limestone_coquina_rubble_condensed.png
+unilib_stone_limestone_dark_rubble_compressed.png
+unilib_stone_limestone_dark_rubble_condensed.png
+unilib_stone_limestone_red_rubble_compressed.png
+unilib_stone_limestone_red_rubble_condensed.png
+unilib_stone_limestone_white_rubble_compressed.png
+unilib_stone_limestone_white_rubble_condensed.png
+unilib_stone_marble_blue_compressed.png
+unilib_stone_marble_blue_condensed.png
+unilib_stone_marble_brown_cobble_compressed.png
+unilib_stone_marble_brown_cobble_condensed.png
+unilib_stone_marble_cream_cobble_compressed.png
+unilib_stone_marble_cream_cobble_condensed.png
+unilib_stone_marble_grey_compressed.png
+unilib_stone_marble_grey_condensed.png
+unilib_stone_marble_red_cobble_compressed.png
+unilib_stone_marble_red_cobble_condensed.png
+unilib_stone_marble_silver_cobble_compressed.png
+unilib_stone_marble_silver_cobble_condensed.png
+unilib_stone_marble_white_cobble_compressed.png
+unilib_stone_marble_white_cobble_condensed.png
+unilib_stone_migmatite_cobble_compressed.png
+unilib_stone_migmatite_cobble_condensed.png
+unilib_stone_mudstone_rubble_compressed.png
+unilib_stone_mudstone_rubble_condensed.png
+unilib_stone_ocean_cobble_compressed.png
+unilib_stone_ocean_cobble_condensed.png
+unilib_stone_pegmatite_white_cobble_compressed.png
+unilib_stone_pegmatite_white_cobble_condensed.png
+unilib_stone_peridotite_pale_compressed.png
+unilib_stone_peridotite_pale_condensed.png
+unilib_stone_pounamu_compressed.png
+unilib_stone_pounamu_condensed.png
+unilib_stone_quartzite_red_cobble_compressed.png
+unilib_stone_quartzite_red_cobble_condensed.png
+unilib_stone_quartzite_white_compressed.png
+unilib_stone_quartzite_white_condensed.png
+unilib_stone_rhyolite_dark_cobble_compressed.png
+unilib_stone_rhyolite_dark_cobble_condensed.png
+unilib_stone_rhyolite_pale_cobble_compressed.png
+unilib_stone_rhyolite_pale_cobble_condensed.png
+unilib_stone_sandstone_andesite_white_cobble_compressed.png
+unilib_stone_sandstone_andesite_white_cobble_condensed.png
+unilib_stone_sandstone_antipodean_cobble_compressed.png
+unilib_stone_sandstone_antipodean_cobble_condensed.png
+unilib_stone_sandstone_basalt_pale_cobble_compressed.png
+unilib_stone_sandstone_basalt_pale_cobble_condensed.png
+unilib_stone_sandstone_beige_compressed.png
+unilib_stone_sandstone_beige_condensed.png
+unilib_stone_sandstone_brown_compressed.png
+unilib_stone_sandstone_brown_condensed.png
+unilib_stone_sandstone_chalk_pink_cobble_compressed.png
+unilib_stone_sandstone_chalk_pink_cobble_condensed.png
+unilib_stone_sandstone_chert_cobble_compressed.png
+unilib_stone_sandstone_chert_cobble_condensed.png
+unilib_stone_sandstone_dacite_cobble_compressed.png
+unilib_stone_sandstone_dacite_cobble_condensed.png
+unilib_stone_sandstone_desert_rubble_compressed.png
+unilib_stone_sandstone_desert_rubble_condensed.png
+unilib_stone_sandstone_dolostone_dark_cobble_compressed.png
+unilib_stone_sandstone_dolostone_dark_cobble_condensed.png
+unilib_stone_sandstone_eclogite_cobble_compressed.png
+unilib_stone_sandstone_eclogite_cobble_condensed.png
+unilib_stone_sandstone_gabbro_grey_cobble_compressed.png
+unilib_stone_sandstone_gabbro_grey_cobble_condensed.png
+unilib_stone_sandstone_gneiss_grey_cobble_compressed.png
+unilib_stone_sandstone_gneiss_grey_cobble_condensed.png
+unilib_stone_sandstone_granite_ebony_cobble_compressed.png
+unilib_stone_sandstone_granite_ebony_cobble_condensed.png
+unilib_stone_sandstone_granite_orange_cobble_compressed.png
+unilib_stone_sandstone_granite_orange_cobble_condensed.png
+unilib_stone_sandstone_grey_compressed.png
+unilib_stone_sandstone_grey_condensed.png
+unilib_stone_sandstone_greywacke_pale_cobble_compressed.png
+unilib_stone_sandstone_greywacke_pale_cobble_condensed.png
+unilib_stone_sandstone_komatiite_cobble_compressed.png
+unilib_stone_sandstone_komatiite_cobble_condensed.png
+unilib_stone_sandstone_lignite_cobble_compressed.png
+unilib_stone_sandstone_lignite_cobble_condensed.png
+unilib_stone_sandstone_limestone_beige_cobble_compressed.png
+unilib_stone_sandstone_limestone_beige_cobble_condensed.png
+unilib_stone_sandstone_marble_cream_cobble_compressed.png
+unilib_stone_sandstone_marble_cream_cobble_condensed.png
+unilib_stone_sandstone_migmatite_cobble_compressed.png
+unilib_stone_sandstone_migmatite_cobble_condensed.png
+unilib_stone_sandstone_old_red_rubble_compressed.png
+unilib_stone_sandstone_old_red_rubble_condensed.png
+unilib_stone_sandstone_ordinary_rubble_compressed.png
+unilib_stone_sandstone_ordinary_rubble_condensed.png
+unilib_stone_sandstone_pale_compressed.png
+unilib_stone_sandstone_pale_condensed.png
+unilib_stone_sandstone_pink_compressed.png
+unilib_stone_sandstone_pink_condensed.png
+unilib_stone_sandstone_quartzite_red_cobble_compressed.png
+unilib_stone_sandstone_quartzite_red_cobble_condensed.png
+unilib_stone_sandstone_red_compressed.png
+unilib_stone_sandstone_red_condensed.png
+unilib_stone_sandstone_rhyolite_dark_cobble_compressed.png
+unilib_stone_sandstone_rhyolite_dark_cobble_condensed.png
+unilib_stone_sandstone_schist_blue_cobble_compressed.png
+unilib_stone_sandstone_schist_blue_cobble_condensed.png
+unilib_stone_sandstone_schist_green_pale_cobble_compressed.png
+unilib_stone_sandstone_schist_green_pale_cobble_condensed.png
+unilib_stone_sandstone_shale_white_cobble_compressed.png
+unilib_stone_sandstone_shale_white_cobble_condensed.png
+unilib_stone_sandstone_siltstone_pale_cobble_compressed.png
+unilib_stone_sandstone_siltstone_pale_cobble_condensed.png
+unilib_stone_sandstone_silver_rubble_compressed.png
+unilib_stone_sandstone_silver_rubble_condensed.png
+unilib_stone_sandstone_soapstone_cobble_compressed.png
+unilib_stone_sandstone_soapstone_cobble_condensed.png
+unilib_stone_sandstone_white_compressed.png
+unilib_stone_sandstone_white_condensed.png
+unilib_stone_savanna_cobble_compressed.png
+unilib_stone_savanna_cobble_condensed.png
+unilib_stone_schist_antipodean_cobble_compressed.png
+unilib_stone_schist_antipodean_cobble_condensed.png
+unilib_stone_schist_blue_cobble_compressed.png
+unilib_stone_schist_blue_cobble_condensed.png
+unilib_stone_schist_brown_cobble_compressed.png
+unilib_stone_schist_brown_cobble_condensed.png
+unilib_stone_schist_green_dark_cobble_compressed.png
+unilib_stone_schist_green_dark_cobble_condensed.png
+unilib_stone_schist_green_pale_cobble_compressed.png
+unilib_stone_schist_green_pale_cobble_condensed.png
+unilib_stone_schist_grey_cobble_compressed.png
+unilib_stone_schist_grey_cobble_condensed.png
+unilib_stone_scoria_cobble_compressed.png
+unilib_stone_scoria_cobble_condensed.png
+unilib_stone_serpentine_cobble_compressed.png
+unilib_stone_serpentine_cobble_condensed.png
+unilib_stone_serpentinite_dark_cobble_compressed.png
+unilib_stone_serpentinite_dark_cobble_condensed.png
+unilib_stone_serpentinite_pale_cobble_compressed.png
+unilib_stone_serpentinite_pale_cobble_condensed.png
+unilib_stone_siltstone_dark_cobble_compressed.png
+unilib_stone_siltstone_dark_cobble_condensed.png
+unilib_stone_siltstone_pale_cobble_compressed.png
+unilib_stone_siltstone_pale_cobble_condensed.png
+unilib_stone_skarn_cobble_compressed.png
+unilib_stone_skarn_cobble_condensed.png
+unilib_stone_slate_antipodean_cobble_compressed.png
+unilib_stone_slate_antipodean_cobble_condensed.png
+unilib_stone_slate_black_cobble_compressed.png
+unilib_stone_slate_black_cobble_condensed.png
+unilib_stone_slate_grey_rubble_compressed.png
+unilib_stone_slate_grey_rubble_condensed.png
+unilib_stone_soapstone_cobble_compressed.png
+unilib_stone_soapstone_cobble_condensed.png
+unilib_stone_travertine_rubble_compressed.png
+unilib_stone_travertine_rubble_condensed.png
+unilib_stone_tuff_rhyolitic_rubble_compressed.png
+unilib_stone_tuff_rhyolitic_rubble_condensed.png
+unilib_stone_tuff_rubble_compressed.png
+unilib_stone_tuff_rubble_condensed.png
+unilib_stone_whitestone_cobble_compressed.png
+unilib_stone_whitestone_cobble_condensed.png
+    Adapted from the corresponding stone textures, placing them side-by-side, then reducing to
+        16x16 pixels
+
+unilib_gravel_andesite_white_compressed.png
+unilib_gravel_basalt_pale_compressed.png
+unilib_gravel_chalk_pink_compressed.png
+unilib_gravel_chert_compressed.png
+unilib_gravel_dacite_compressed.png
+unilib_gravel_dolostone_dark_compressed.png
+unilib_gravel_eclogite_compressed.png
+unilib_gravel_gabbro_grey_compressed.png
+unilib_gravel_gneiss_grey_compressed.png
+unilib_gravel_granite_ebony_compressed.png
+unilib_gravel_granite_orange_compressed.png
+unilib_gravel_greywacke_pale_compressed.png
+unilib_gravel_komatiite_compressed.png
+unilib_gravel_limestone_beige_compressed.png
+unilib_gravel_marble_cream_compressed.png
+unilib_gravel_migmatite_compressed.png
+unilib_gravel_mossy_compressed.png
+unilib_gravel_quartzite_red_compressed.png
+unilib_gravel_red_antipodean_compressed.png
+unilib_gravel_rhyolite_dark_compressed.png
+unilib_gravel_sandstone_desert_compressed.png
+unilib_gravel_sandstone_ordinary_compressed.png
+unilib_gravel_sandstone_silver_compressed.png
+unilib_gravel_schist_blue_compressed.png
+unilib_gravel_schist_green_pale_compressed.png
+unilib_gravel_siltstone_pale_compressed.png
+unilib_gravel_soapstone_compressed.png
+unilib_gravel_stone_desert_compressed.png
+    Adapted from the corresponding gravel textures, placing them side-by-side, then reducing to
+        16x16 pixels
+        
+unilib_dirt_antipodean_compressed.png
+unilib_dirt_antipodean_dark_compressed.png
+unilib_dirt_black_compressed.png
+unilib_dirt_brown_compressed.png
+unilib_dirt_clayey_compressed.png
+unilib_dirt_coarse_compressed.png
+unilib_dirt_dark_compressed.png
+unilib_dirt_dried_compressed.png
+unilib_dirt_dry_compressed.png
+unilib_dirt_graveyard_compressed.png
+unilib_dirt_mossy_compressed.png
+unilib_dirt_parched_compressed.png
+unilib_dirt_peat_compressed.png
+unilib_dirt_permafrost_dark_compressed.png
+unilib_dirt_permafrost_ordinary_compressed.png
+unilib_dirt_polluted_compressed.png
+unilib_dirt_red_antipodean_compressed.png
+unilib_dirt_sandy_compressed.png
+unilib_dirt_silt_coarse_compressed.png
+unilib_dirt_silt_fine_compressed.png
+    Adapted from the corresponding dirt textures, placing them side-by-side, then reducing to
+        16x16 pixels
+
+unilib_sand_andesite_white_compressed.png
+unilib_sand_basalt_dark_compressed.png
+unilib_sand_basalt_pale_compressed.png
+unilib_sand_beige_compressed.png
+unilib_sand_biogenic_compressed.png
+unilib_sand_brown_compressed.png
+unilib_sand_chalk_pink_compressed.png
+unilib_sand_chert_compressed.png
+unilib_sand_coral_compressed.png
+unilib_sand_dacite_compressed.png
+unilib_sand_desert_compressed.png
+unilib_sand_diatomite_compressed.png
+unilib_sand_dolostone_dark_compressed.png
+unilib_sand_eclogite_compressed.png
+unilib_sand_feldspar_compressed.png
+unilib_sand_gabbro_grey_compressed.png
+unilib_sand_garnet_compressed.png
+unilib_sand_garnet_antipodean_compressed.png
+unilib_sand_glassy_compressed.png
+unilib_sand_glauconite_compressed.png
+unilib_sand_gneiss_grey_compressed.png
+unilib_sand_granite_ebony_compressed.png
+unilib_sand_granite_orange_compressed.png
+unilib_sand_greensand_dark_compressed.png
+unilib_sand_greensand_pale_compressed.png
+unilib_sand_greywacke_pale_compressed.png
+unilib_sand_gypsum_compressed.png
+unilib_sand_haematite_compressed.png
+unilib_sand_immature_compressed.png
+unilib_sand_komatiite_compressed.png
+unilib_sand_limestone_beige_compressed.png
+unilib_sand_lithic_compressed.png
+unilib_sand_marble_cream_compressed.png
+unilib_sand_migmatite_compressed.png
+unilib_sand_ooid_compressed.png
+unilib_sand_ordinary_compressed.png
+unilib_sand_pale_compressed.png
+unilib_sand_pink_compressed.png
+unilib_sand_quartz_compressed.png
+unilib_sand_quartzite_red_compressed.png
+unilib_sand_red_antipodean_compressed.png
+unilib_sand_red_compressed.png
+unilib_sand_rhyolite_dark_compressed.png
+unilib_sand_river_compressed.png
+unilib_sand_schist_blue_compressed.png
+unilib_sand_schist_green_pale_compressed.png
+unilib_sand_serpentine_compressed.png
+unilib_sand_silica_compressed.png
+unilib_sand_silt_antipodean_compressed.png
+unilib_sand_siltstone_pale_compressed.png
+unilib_sand_silver_compressed.png
+unilib_sand_soapstone_compressed.png
+unilib_sand_sulphur_compressed.png
+unilib_sand_volcanic_compressed.png
+unilib_sand_volcanic_fine_compressed.png
+unilib_sand_volcanic_glass_compressed.png
+unilib_sand_white_compressed.png
+    Adapted from the corresponding sand textures, placing them side-by-side, then reducing to
+        16x16 pixels
+
+unilib_metal_albata_block_compressed.png
+unilib_metal_aluminium_block_compressed.png
+unilib_metal_bismuth_block_compressed.png
+unilib_metal_brass_block_compressed.png
+unilib_metal_brass_rare_block_compressed.png
+unilib_metal_bronze_bismuth_block_compressed.png
+unilib_metal_bronze_black_block_compressed.png
+unilib_metal_bronze_block_compressed.png
+unilib_metal_bronze_rare_block_compressed.png
+unilib_metal_cadmium_block_compressed.png
+unilib_metal_chromium_block_compressed.png
+unilib_metal_cobalt_block_compressed.png
+unilib_metal_copper_block_compressed.png
+unilib_metal_copper_patina_block_compressed.png
+unilib_metal_copper_rare_block_compressed.png
+unilib_metal_erbium_block_compressed.png
+unilib_metal_gallium_block_compressed.png
+unilib_metal_geminitium_block_compressed.png
+unilib_metal_germanium_block_compressed.png
+unilib_metal_gold_block_compressed.png
+unilib_metal_gold_rare_block_compressed.png
+unilib_metal_gold_rose_block_compressed.png
+unilib_metal_hafnium_block_compressed.png
+unilib_metal_indium_block_compressed.png
+unilib_metal_iridium_block_compressed.png
+unilib_metal_iron_cast_block_compressed.png
+unilib_metal_iron_pig_block_compressed.png
+unilib_metal_iron_wrought_block_compressed.png
+unilib_metal_iron_wrought_rare_block_compressed.png
+unilib_metal_lead_block_compressed.png
+unilib_metal_lead_rare_block_compressed.png
+unilib_metal_magnesium_block_compressed.png
+unilib_metal_manganese_block_compressed.png
+unilib_metal_mithril_block_compressed.png
+unilib_metal_molybdenum_block_compressed.png
+unilib_metal_monel_block_compressed.png
+unilib_metal_nickel_block_compressed.png
+unilib_metal_niobium_block_compressed.png
+unilib_metal_oroide_block_compressed.png
+unilib_metal_osmium_block_compressed.png
+unilib_metal_palladium_block_compressed.png
+unilib_metal_platinum_block_compressed.png
+unilib_metal_platinum_rare_block_compressed.png
+unilib_metal_rhodium_block_compressed.png
+unilib_metal_ruthenium_block_compressed.png
+unilib_metal_scandium_block_compressed.png
+unilib_metal_silver_block_compressed.png
+unilib_metal_silver_german_block_compressed.png
+unilib_metal_silver_rare_block_compressed.png
+unilib_metal_silver_sterling_block_compressed.png
+unilib_metal_steel_black_block_compressed.png
+unilib_metal_steel_block_compressed.png
+unilib_metal_steel_carbon_block_compressed.png
+unilib_metal_steel_rare_block_compressed.png
+unilib_metal_steel_stainless_block_compressed.png
+unilib_metal_tantalum_block_compressed.png
+unilib_metal_technetium_block_compressed.png
+unilib_metal_tellurium_block_compressed.png
+unilib_metal_tin_block_compressed.png
+unilib_metal_tin_rare_block_compressed.png
+unilib_metal_titanium_block_compressed.png
+unilib_metal_tumbaga_block_compressed.png
+unilib_metal_tungsten_block_compressed.png
+unilib_metal_uranium_block_compressed.png
+unilib_metal_vanadium_block_compressed.png
+unilib_metal_zinc_block_compressed.png
+unilib_metal_zinc_rare_block_compressed.png
+unilib_metal_zirconium_block_compressed.png
+    Adapted from the corresponding metal textures, placing them side-by-side, then reducing to
+        17x17 pixels
+        
+unilib_misc_leaves_autumn_compacted.png
+unilib_tree_acacia_exotic_leaves_compacted.png
+unilib_tree_acacia_leaves_compacted.png
+unilib_tree_acacia_shoestring_leaves_compacted.png
+unilib_tree_apple_leaves_compacted.png
+unilib_tree_apple_leaves_frozen_compacted.png
+unilib_tree_apple_mature_leaves_compacted.png
+unilib_tree_ash_leaves_compacted.png
+unilib_tree_aspen_exotic_leaves_compacted.png
+unilib_tree_aspen_leaves_compacted.png
+unilib_tree_banana_exposed_leaves_compacted.png
+unilib_tree_banana_leaves_compacted.png
+unilib_tree_banksia_bull_leaves_compacted.png
+unilib_tree_banksia_coast_leaves_compacted.png
+unilib_tree_baobab_leaves_compacted.png
+unilib_tree_beech_black_leaves_compacted.png
+unilib_tree_beech_common_leaves_compacted.png
+unilib_tree_beech_mature_leaves_compacted.png
+unilib_tree_beech_mountain_leaves_compacted.png
+unilib_tree_beech_silver_leaves_compacted.png
+unilib_tree_beech_southern_leaves_compacted.png
+unilib_tree_birch_leaves_compacted.png
+unilib_tree_birch_mature_leaves_compacted.png
+unilib_tree_birch_small_leaves_compacted.png
+unilib_tree_bloodwood_swamp_leaves_compacted.png
+unilib_tree_boab_leaves_compacted.png
+unilib_tree_bottlebrush_red_leaves_compacted.png
+unilib_tree_box_black_leaves_compacted.png
+unilib_tree_box_cloncurry_leaves_compacted.png
+unilib_tree_box_white_leaves_compacted.png
+unilib_tree_cacao_leaves_compacted.png
+unilib_tree_cedar_leaves_compacted.png
+unilib_tree_cherry_australian_leaves_compacted.png
+unilib_tree_cherry_blossom_leaves_compacted.png
+unilib_tree_cherry_leaves_compacted.png
+unilib_tree_chestnut_exotic_leaves_compacted.png
+unilib_tree_chestnut_leaves_compacted.png
+unilib_tree_clementine_leaves_compacted.png
+unilib_tree_common_daisy_leaves_compacted.png
+unilib_tree_coolabah_leaves_compacted.png
+unilib_tree_cypress_bald_leaves_compacted.png
+unilib_tree_cypress_leaves_compacted.png
+unilib_tree_deciduous_mature_leaves_compacted.png
+unilib_tree_deciduous_mature_leaves_red_compacted.png
+unilib_tree_deciduous_mature_leaves_yellow_compacted.png
+unilib_tree_deciduous_normal_leaves_compacted.png
+unilib_tree_deciduous_normal_leaves_green_compacted.png
+unilib_tree_dry_leaves_compacted.png
+unilib_tree_ebony_leaves_compacted.png
+unilib_tree_eucalyptus_leaves_compacted.png
+unilib_tree_eucalyptus_lemon_leaves_compacted.png
+unilib_tree_exotic_leaves_compacted.png
+unilib_tree_fig_moreton_bay_leaves_compacted.png
+unilib_tree_fir_douglas_coast_leaves_compacted.png
+unilib_tree_fir_douglas_leaves_dark_compacted.png
+unilib_tree_fir_douglas_leaves_pale_compacted.png
+unilib_tree_fir_leaves_compacted.png
+unilib_tree_flame_illawarra_leaves_compacted.png
+unilib_tree_frost_leaves_compacted.png
+unilib_tree_ginkgo_leaves_compacted.png
+unilib_tree_gum_blue_leaves_compacted.png
+unilib_tree_gum_river_red_leaves_compacted.png
+unilib_tree_gum_scribbly_leaves_compacted.png
+unilib_tree_gum_snow_leaves_compacted.png
+unilib_tree_gum_sugar_leaves_compacted.png
+unilib_tree_gum_swamp_leaves_compacted.png
+unilib_tree_healing_leaves_compacted.png
+unilib_tree_hinau_leaves_compacted.png
+unilib_tree_holly_leaves_compacted.png
+unilib_tree_ipe_yellow_leaves_compacted.png
+unilib_tree_jacaranda_leaves_compacted.png
+unilib_tree_jarrah_leaves_compacted.png
+unilib_tree_jungle_ancient_leaves_compacted.png
+unilib_tree_jungle_exotic_leaves_compacted.png
+unilib_tree_jungle_leaves_compacted.png
+unilib_tree_jungle_leaves_red_compacted.png
+unilib_tree_jungle_leaves_yellow_compacted.png
+unilib_tree_jungle_mature_leaves_compacted.png
+unilib_tree_kahikatea_leaves_compacted.png
+unilib_tree_kamahi_leaves_compacted.png
+unilib_tree_karaka_leaves_compacted.png
+unilib_tree_karo_leaves_compacted.png
+unilib_tree_karri_leaves_compacted.png
+unilib_tree_kauri_leaves_compacted.png
+unilib_tree_kawakawa_leaves_compacted.png
+unilib_tree_kowhai_leaves_compacted.png
+unilib_tree_larch_leaves_compacted.png
+unilib_tree_lavender_leaves_compacted.png
+unilib_tree_lemon_leaves_compacted.png
+unilib_tree_lemon_mature_leaves_compacted.png
+unilib_tree_lilly_pilly_leaves_compacted.png
+unilib_tree_macadamia_prickly_leaves_compacted.png
+unilib_tree_mahoe_leaves_compacted.png
+unilib_tree_mahogany_leaves_compacted.png
+unilib_tree_maire_black_leaves_compacted.png
+unilib_tree_mangrove_apple_leaves_compacted.png
+unilib_tree_mangrove_green_leaves_compacted.png
+unilib_tree_mangrove_grey_leaves_compacted.png
+unilib_tree_mangrove_stilted_leaves_compacted.png
+unilib_tree_mangrove_white_leaves_compacted.png
+unilib_tree_manuka_leaves_compacted.png
+unilib_tree_maple_mature_leaves_compacted.png
+unilib_tree_maple_red_leaves_compacted.png
+unilib_tree_maple_sugar_leaves_compacted.png
+unilib_tree_marri_leaves_compacted.png
+unilib_tree_matagouri_leaves_compacted.png
+unilib_tree_merbau_leaves_compacted.png
+unilib_tree_mirabelle_leaves_compacted.png
+unilib_tree_miro_leaves_compacted.png
+unilib_tree_mulga_leaves_compacted.png
+unilib_tree_myrtle_lemon_leaves_compacted.png
+unilib_tree_myrtle_tasmanian_leaves_compacted.png
+unilib_tree_oak_desert_leaves_compacted.png
+unilib_tree_oak_graveyard_leaves_compacted.png
+unilib_tree_oak_leaves_compacted.png
+unilib_tree_oak_mature_leaves_compacted.png
+unilib_tree_oak_red_leaves_compacted.png
+unilib_tree_oak_river_leaves_compacted.png
+unilib_tree_olive_leaves_compacted.png
+unilib_tree_orange_leaves_compacted.png
+unilib_tree_pahautea_leaves_compacted.png
+unilib_tree_palm_caribbean_leaves_compacted.png
+unilib_tree_palm_date_leaves_compacted.png
+unilib_tree_palm_desert_ancient_leaves_compacted.png
+unilib_tree_palm_desert_leaves_compacted.png
+unilib_tree_palm_desert_mature_leaves_compacted.png
+unilib_tree_palm_exotic_leaves_compacted.png
+unilib_tree_palm_fan_leaves_compacted.png
+unilib_tree_palm_jungle_leaves_compacted.png
+unilib_tree_palm_leaves_compacted.png
+unilib_tree_palm_plain_leaves_compacted.png
+unilib_tree_paperbark_leaves_compacted.png
+unilib_tree_paperbark_swamp_leaves_compacted.png
+unilib_tree_pine_ancient_leaves_compacted.png
+unilib_tree_pine_celerytop_leaves_compacted.png
+unilib_tree_pine_exotic_leaves_compacted.png
+unilib_tree_pine_exposed_leaves_compacted.png
+unilib_tree_pine_frozen_leaves_compacted.png
+unilib_tree_pine_huon_leaves_compacted.png
+unilib_tree_pine_leaves_compacted.png
+unilib_tree_pine_rottnest_island_leaves_compacted.png
+unilib_tree_plum_leaves_compacted.png
+unilib_tree_pohutukawa_leaves_compacted.png
+unilib_tree_pomegranate_leaves_compacted.png
+unilib_tree_poplar_leaves_compacted.png
+unilib_tree_quandong_desert_leaves_compacted.png
+unilib_tree_rangiora_leaves_compacted.png
+unilib_tree_redwood_leaves_compacted.png
+unilib_tree_rimu_leaves_compacted.png
+unilib_tree_rubber_leaves_compacted.png
+unilib_tree_sakura_leaves_compacted.png
+unilib_tree_sakura_leaves_white_compacted.png
+unilib_tree_sassafras_southern_leaves_compacted.png
+unilib_tree_sequoia_leaves_compacted.png
+unilib_tree_sequoia_mature_leaves_compacted.png
+unilib_tree_spruce_leaves_compacted.png
+unilib_tree_spruce_mature_leaves_compacted.png
+unilib_tree_stringybark_daintree_leaves_compacted.png
+unilib_tree_tawa_leaves_compacted.png
+unilib_tree_teak_leaves_compacted.png
+unilib_tree_tea_leaves_compacted.png
+unilib_tree_totara_leaves_compacted.png
+unilib_tree_wattle_black_leaves_compacted.png
+unilib_tree_wattle_golden_leaves_compacted.png
+unilib_tree_willow_ancient_leaves_compacted.png
+unilib_tree_willow_exotic_leaves_compacted.png
+unilib_tree_willow_large_leaves_compacted.png
+unilib_tree_willow_mature_leaves_compacted.png
+unilib_tree_willow_weeping_leaves_compacted.png
+unilib_tree_wirewood_leaves_compacted.png
+unilib_tree_woollybutt_darwin_leaves_compacted.png
+    Adapted from the corresponding leaves textures, placing them side-by-side, then reducing to
+        16x16 pixels

@@ -4,10 +4,13 @@
 ---------------------------------------------------------------------------------------------------
 
 unilib_crop_rice_brown_grow_1.png
-    Adapted from /textures/cucina_vegana_rice_2.png
+    Adapted from /textures/16x16/cucina_vegana_rice_2.png
 unilib_crop_rice_brown_harvest.png
-    Adapted from /textures/cucina_vegana_rice.png
+    Adapted from /textures/16x16/cucina_vegana_rice.png
 unilib_crop_rice_brown_seed.png
-    Adapted from /textures/cucina_vegana_rice_seed.png
+    Adapted from /textures/16x16/cucina_vegana_rice_seed.png
+unilib_food_jam_blueberry.png
+    Adapted from /textures/16x16/cucina_vegana_blueberry_jan.png
 unilib_food_milk_soy_red.png
     Adapted from cropocalypse, /textures/cropocalypse_soy_milk.png
+    Media: MIT

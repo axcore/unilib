@@ -8,5 +8,8 @@ unilib_bucket_water_dirty_overlay.png
 unilib_plant_cactus_exotic_seed.png
     Adapted from minetest_game, /mods/default/textures/default_large_cactus_seedling.png
     Media: CC BY-SA 3.0
+unilib_plant_kelp_yellow.png
+    Adapted from /mods/mapgen/textures/mapgen_kelp.png
+unilib_plant_kelp_ordinary_thick.png
 unilib_plant_kelp_yellow_thick.png
     Adapted from /mods/mapgen/textures/mapgen_kelp_2.png

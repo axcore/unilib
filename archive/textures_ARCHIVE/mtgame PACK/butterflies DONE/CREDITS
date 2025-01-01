@@ -1,0 +1,31 @@
+---------------------------------------------------------------------------------------------------
+-- From:    minetest_game/butterflies
+-- Media:   CC BY-SA 3.0
+---------------------------------------------------------------------------------------------------
+
+unilib_misc_butterfly_black.png
+unilib_misc_butterfly_blue.png
+unilib_misc_butterfly_brown.png
+unilib_misc_butterfly_cyan.png
+unilib_misc_butterfly_green.png
+unilib_misc_butterfly_green_dark.png
+unilib_misc_butterfly_grey.png
+unilib_misc_butterfly_grey_dark.png
+unilib_misc_butterfly_magenta.png
+unilib_misc_butterfly_orange.png
+unilib_misc_butterfly_pink.png
+unilib_misc_butterfly_yellow.png
+    Adapted from /textures/butterflies_butterfly_red.png
+unilib_misc_butterfly_black_animated.png
+unilib_misc_butterfly_blue_animated.png
+unilib_misc_butterfly_brown_animated.png
+unilib_misc_butterfly_cyan_animated.png
+unilib_misc_butterfly_green_animated.png
+unilib_misc_butterfly_green_dark_animated.png
+unilib_misc_butterfly_grey_animated.png
+unilib_misc_butterfly_grey_dark_animated.png
+unilib_misc_butterfly_magenta_animated.png
+unilib_misc_butterfly_orange_animated.png
+unilib_misc_butterfly_pink_animated.png
+unilib_misc_butterfly_yellow_animated.png
+    Adapted from /textures/butterflies_butterfly_red_animated.png

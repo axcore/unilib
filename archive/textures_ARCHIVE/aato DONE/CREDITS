@@ -1,14 +1,44 @@
 ---------------------------------------------------------------------------------------------------
--- From:    aato
+-- From:    AATO
 -- Media:   GPL 3.0
 ---------------------------------------------------------------------------------------------------
 
 unilib_mineral_acanthite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/acanthite.png
+unilib_mineral_agate_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_agate_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_alabandite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/alabandite.png
+unilib_mineral_almandine_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_almandine_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_amazonite_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_amazonite_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_amethyst_dark_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_amethyst_dark_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_anatase_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/anatase.png
+unilib_mineral_andradite_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_andradite_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_anglesite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/anglesite.png
 unilib_mineral_anhydrite_lump.png
@@ -35,6 +65,12 @@ unilib_mineral_calcite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/calcite.png
 unilib_mineral_carnallite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/carnallite.png
+unilib_mineral_carnelian_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_carnelian_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_carnotite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/carnotite.png
 unilib_mineral_carrollite_lump.png
@@ -43,6 +79,18 @@ unilib_mineral_cerussite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/cerussite.png
 unilib_mineral_chalcocite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/chalcocite.png
+unilib_mineral_chrysocolla_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_chrysocolla_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_chrysoprase_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_chrysoprase_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_clausthalite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/clausthalite.png
 unilib_mineral_cobaltite_lump.png
@@ -73,6 +121,18 @@ unilib_mineral_greenockite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/greenockite.png
 unilib_mineral_hausmannite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/hausmannite.png
+unilib_mineral_hauyne_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_hauyne_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_heliotrope_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_heliotrope_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_hemimorphite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/hemimorphite.png
 unilib_mineral_hollandite_lump.png
@@ -81,6 +141,18 @@ unilib_mineral_hubnerite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/hubnerite.png
 unilib_mineral_hydrozincite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/hydrozincite.png
+unilib_mineral_jade_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_jade_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_jet_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_jet_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_iron_telluric_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/telluric_iron.png
 unilib_mineral_kainite_lump.png
@@ -103,6 +175,12 @@ unilib_mineral_millerite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/millerite.png
 unilib_mineral_monazite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/monazite.png
+unilib_mineral_moonstone_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_moonstone_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_nepheline_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/nepheline.png
 unilib_mineral_nepouite_lump.png
@@ -111,10 +189,28 @@ unilib_mineral_nickeline_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/nickeline.png
 unilib_mineral_nitratine_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/nitratine.png
+unilib_mineral_onyx_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_onyx_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_opal_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_opal_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_orpiment_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/orpiment.png
 unilib_mineral_otavite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/otavite.png
+unilib_mineral_peridot_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_peridot_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_petalite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/petalite.png
 unilib_mineral_phosphorite_lump.png
@@ -127,26 +223,70 @@ unilib_mineral_proustite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/proustite.png
 unilib_mineral_pyromorphite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/pyromorphite.png
+unilib_mineral_pyrope_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_pyrope_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_rhodochrosite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/rhodochrosite.png
 unilib_mineral_rhodonite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/rhodonite.png
+unilib_mineral_ruby_dark_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_ruby_dark_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_rutile_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/rutile.png
 unilib_mineral_samarskite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/samarskite_y.png
+unilib_mineral_samarskite_rare_lump.png
+    Adapted from /src/main/resources/assets/almostalltheores/textures/block/samarskite_y.png
+unilib_mineral_sapphire_dark_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_sapphire_dark_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_siderite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/siderite.png
 unilib_mineral_skutterudite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/skutterudite.png
 unilib_mineral_smithsonite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/smithsonite.png
+unilib_mineral_spessartine_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_spessartine_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_spinel_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_spinel_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_stannite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/stannite.png
 unilib_mineral_stephanite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/stephanite.png
 unilib_mineral_strontianite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/strontianite.png
+unilib_mineral_sugilite_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_sugilite_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_tanzanite_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_tanzanite_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_teallite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/teallite.png
 unilib_mineral_tennantite_lump.png
@@ -159,8 +299,38 @@ unilib_mineral_tin_native_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/native_tin.png
 unilib_mineral_titanite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/titanite.png
+unilib_mineral_topaz_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_topaz_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_torbernite_lump.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/torbernite.png
+unilib_mineral_tourmaline_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_tourmaline_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_tsavorite_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_tsavorite_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_turquoise_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_turquoise_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
+unilib_mineral_unakite_block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_unakite_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
+    Media: CC BY-SA 3.0
 unilib_mineral_uraninite.png
     Adapted from /src/main/resources/assets/almostalltheores/textures/block/uraninite.png
 unilib_mineral_uraninite_lump.png

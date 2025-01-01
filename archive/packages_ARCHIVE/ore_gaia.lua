@@ -1,0 +1,41 @@
+---------------------------------------------------------------------------------------------------
+-- unilib mod by A S Lewis, incorporating materials from many other mods
+---------------------------------------------------------------------------------------------------
+-- From:    badlands
+-- Code:    LGPL-3.0
+-- Media:   LGPL-3.0
+--
+-- From:    darkage
+-- Code:    WTFPL
+-- Media:   WTFPL
+--
+-- From:    default
+-- Code:    LGPL 2.1
+-- Media:   CC BY-SA 3.0
+--
+-- From:    GLEMr4
+-- Code:    LGPL 2.1
+-- Media:   unknown
+--
+-- From:    moreores
+-- Code:    zlib
+-- Media:   CC BY-SA 3.0
+--
+-- From:    technic/technic_worldgen
+-- Code:    LGPL 2.0
+-- Media:   unknown
+--
+-- From:    underch
+-- Code:    CC0
+-- Media:   CC BY-SA 3.0
+--
+-- From:    unilib
+-- Code:    LGPL 2.1
+-- Media:   CC BY-SA 3.0
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+-- Original code
+---------------------------------------------------------------------------------------------------
+
+-- (omitted for brevity)

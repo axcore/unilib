@@ -1,11 +1,23 @@
 ---------------------------------------------------------------------------------------------------
--- From:    ethereal
+-- From:    ethereal-ng
 -- Media:   MIT/CC0
 ---------------------------------------------------------------------------------------------------
 
 unilib_bucket_pulp_cactus_overlay.png
     Adapted from /textures/bucket_cactus.png
+unilib_mineral_crystallite_ingot.png
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
 unilib_stone_marble_blue.png
     Adapted from /textures/ethereal_blue_marble.png
-unilib_stone_marble_blue_tile.png
+unilib_stone_marble_blue_block.png
     Adapted from /textures/ethereal_blue_marble_tile.png
+unilib_tool_axe_crystallite_enchanted_overlay.png
+unilib_tool_axe_crystallite_enlightened_overlay.png
+    Adapted from /textures/ethereal_crystal_axe.png
+unilib_tool_pick_crystallite_enchanted_overlay.png
+unilib_tool_pick_crystallite_enlightened_overlay.png
+    Adapted from /textures/ethereal_crystal_pick.png
+unilib_tool_sword_crystallite_enchanted_overlay.png
+unilib_tool_sword_crystallite_enlightened_overlay.png
+    Adapted from /textures/ethereal_crystal_sword.png

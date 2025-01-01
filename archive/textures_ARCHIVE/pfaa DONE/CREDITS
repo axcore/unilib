@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------
--- From:    pfaa
+-- From:    PFAA
 -- Media:   Artistic-2.0
 ---------------------------------------------------------------------------------------------------
 
@@ -23,16 +23,16 @@ unilib_mineral_barite_lump.png
     Original to unilib
     Media: CC BY-SA 3.0
 unilib_mineral_bastnasite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/bastnasite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/bastnasite.png
     Media: GPL 3.0
 unilib_mineral_celestine_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/celestine.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/celestine.png
     Media: GPL 3.0
 unilib_mineral_chalcopyrite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/chalcopyrite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/chalcopyrite.png
     Media: GPL 3.0
 unilib_mineral_chromite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/chromite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/chromite.png
     Media: GPL 3.0
 unilib_mineral_chrysotile_lump.png
     Original to unilib
@@ -41,18 +41,24 @@ unilib_mineral_coke_natural_lump.png
     Original to unilib
     Media: CC BY-SA 3.0
 unilib_mineral_dolomite.png
-    Adapted from mediumOreRock_dolomite.png
+    Adapted from /src/main/resources/assets/geologica/textures/blocks/mediumOreRock_dolomite.png
 unilib_mineral_fluorite_lump.png
     Original to unilib
     Media: CC BY-SA 3.0
 unilib_mineral_halite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/halite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/halite.png
     Media: GPL 3.0
 unilib_mineral_ilmenite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/ilmenite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/ilmenite.png
     Media: GPL 3.0
 unilib_mineral_kyanite_lump.png
     Original to unilib
+    Media: CC BY-SA 3.0
+unilib_mineral_lapis_lazuli__block.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond_block.png
+    Media: CC BY-SA 3.0
+unilib_mineral_lapis_lazuli_gem.png
+    Adapted from minetest_game, /mods/default/textures/default_diamond.png
     Media: CC BY-SA 3.0
 unilib_mineral_lapis_lazuli_lump.png
     Original to unilib
@@ -64,9 +70,10 @@ unilib_mineral_limonite_brown_lump.png
     Original to unilib
     Media: CC BY-SA 3.0
 unilib_mineral_limonite_yellow_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/limonite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/limonite.png
+    Media: GPL 3.0
 unilib_mineral_magnesite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/magnesite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/magnesite.png
     Media: GPL 3.0
 unilib_mineral_magnetite_vanadium_lump.png
     Original to unilib
@@ -77,10 +84,10 @@ unilib_mineral_mica_lump.png
 unilib_mineral_mirabilite_lump.png
     Adapted from /src/main/resources/assets/geologica/textures/blocks/weakOreRock_mirabilite.png
 unilib_mineral_molybdenite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/molybdenite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/molybdenite.png
     Media: GPL 3.0
 unilib_mineral_pentlandite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/pentlandite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/pentlandite.png
     Media: GPL 3.0
 unilib_mineral_perlite_lump.png
     Adapted from /src/main/resources/assets/geologica/textures/blocks/strongOreRock_perlite.png
@@ -90,19 +97,19 @@ unilib_mineral_pollucite_lump.png
 unilib_mineral_pumice_lump.png
     Adapted from /src/main/resources/assets/geologica/textures/blocks/strongOreRock_pumice.png
 unilib_mineral_pyrite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/pyrite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/pyrite.png
     Media: GPL 3.0
 unilib_mineral_pyrolusite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/pyrolusite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/pyrolusite.png
     Media: GPL 3.0
 unilib_mineral_quartz_brown_lump.png
     Original to unilib
     Media: CC BY-SA 3.0
 unilib_mineral_realgar_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/realgar.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/realgar.png
     Media: GPL 3.0
 unilib_mineral_scheelite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/scheelite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/scheelite.png
     Media: GPL 3.0
 unilib_mineral_spodumene_lump.png
     Original to unilib
@@ -111,10 +118,10 @@ unilib_mineral_steatite_lump.png
     Original to unilib
     Media: CC BY-SA 3.0
 unilib_mineral_stibnite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/stibnite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/stibnite.png
     Media: GPL 3.0
 unilib_mineral_tantalite_lump.png
-    Adapted from aato, /src/main/resources/assets/almostalltheores/textures/block/tantalite.png
+    Adapted from AATO, /src/main/resources/assets/almostalltheores/textures/block/tantalite.png
     Media: GPL 3.0
 unilib_mineral_trona_lump.png
     Adapted from /src/main/resources/assets/geologica/textures/blocks/weakOreRock_trona.png

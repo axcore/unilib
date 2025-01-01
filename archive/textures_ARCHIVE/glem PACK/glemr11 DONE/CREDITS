@@ -44,30 +44,42 @@ unilib_bush_rhododendron_stem.png
     Adapted from minetest_game, /mods/default/textures/default_bush_stem.png
     Media: CC BY-SA 3.0
 unilib_coral_rooted_spider_skeleton.png
-    Adapted from lib_ecology_coral_purple.png
+    Adapted from glemr11 lib_ecology, /textures/lib_ecology_coral_purple.png
+unilib_litter_forest_leafy_side_overlay.png
+    Adapted from glemr11 lib_materials, /textures/lib_materials_leaf_01.png
 unilib_tree_beech_southern_sapling.png
     Adapted from minetest_game, /mods/default/textures/default_sapling.png
     Media: CC BY-SA 3.0
 unilib_tree_oak_red_trunk.png
     Adapted from moretrees, /textures/moretrees_oak_trunk.png
+    Media: CC-by-SA 4.0
 unilib_tree_oak_red_trunk_top.png
     Adapted from moretrees, /textures/moretrees_oak_trunk_top.png
+    Media: CC-by-SA 4.0
 unilib_tree_oak_red_wood.png
     Adapted from moretrees, /textures/moretrees_oak_wood.png
+    Media: CC-by-SA 4.0
 unilib_tree_palm_desert_sapling.png
-    Adapted from ethereal, /textures/ethereal_banana_tree_sapling.png
+    Adapted from ethereal-ng, /textures/ethereal_banana_tree_sapling.png
+    Media: MIT/CC0
 unilib_tree_palm_desert_wood.png
-    Adapted from ethereal, /textures/ethereal_banana_wood.png
+    Adapted from ethereal-ng, /textures/ethereal_banana_wood.png
+    Media: MIT/CC0
 unilib_tree_palm_desert_trunk.png
-    Adapted from ethereal, /textures/ethereal_banana_trunk.png
+    Adapted from ethereal-ng, /textures/ethereal_banana_trunk.png
+    Media: MIT/CC0
 unilib_tree_palm_desert_ancient_sapling.png
-    Adapted from ethereal, /textures/ethereal_banana_tree_sapling.png
+    Adapted from ethereal-ng, /textures/ethereal_banana_tree_sapling.png
+    Media: MIT/CC0
 unilib_tree_palm_desert_ancient_wood.png
-    Adapted from ethereal, /textures/ethereal_banana_wood.png
+    Adapted from ethereal-ng, /textures/ethereal_banana_wood.png
+    Media: MIT/CC0
 unilib_tree_palm_desert_mature_sapling.png
-    Adapted from ethereal, /textures/ethereal_banana_tree_sapling.png
+    Adapted from ethereal-ng, /textures/ethereal_banana_tree_sapling.png
+    Media: MIT/CC0
 unilib_tree_palm_desert_mature_wood.png
-    Adapted from ethereal, /textures/ethereal_banana_wood.png
+    Adapted from ethereal-ng, /textures/ethereal_banana_wood.png
+    Media: MIT/CC0
 unilib_tree_teak_wood.png
     Adapted from minetest_game, /mods/default/textures/default_pine_wood.png
     Media: CC BY-SA 3.0

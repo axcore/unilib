@@ -3,13 +3,95 @@
 -- Media:   WTFPL/CC BY-SA/CC BY 3.0
 ---------------------------------------------------------------------------------------------------
 
-unilib_container_cabinet_drawer_bottom_front.png
+unilib_furniture_cabinet_simple_drawer_bottom_front.png
     Adapted from /textures/xdecor_half_cabinet_front.png
-unilib_container_cabinet_drawer_bottom_side.png
+unilib_furniture_cabinet_simple_drawer_bottom_side.png
     Adapted from /textures/xdecor_half_cabinet_sides.png
 unilib_furniture_curtain_overlay.png
     Adapted from /textures/xdecor_curtain_open_overlay.png
-
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_black.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_blue.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_brown.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_cyan.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_green.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_green_dark.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_grey.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_grey_dark.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_magenta.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_orange.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_pink.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_violet.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_white.png
+/home/ra/Desktop/wibble/unilib_furniture_cushion_simple_yellow.png
+    Adapted from /textures/xdecor_cushion.png
+unilib_misc_painting_frame.png
+    Original to unilib
+    Media: CC BY-SA 3.0
+unilib_misc_painting_landscape_1.png
+unilib_misc_painting_landscape_2.png
+unilib_misc_painting_landscape_3.png
+unilib_misc_painting_landscape_4.png
+unilib_misc_painting_landscape_5.png
+unilib_misc_painting_landscape_6.png
+unilib_misc_painting_landscape_7.png
+unilib_misc_painting_landscape_8.png
+unilib_misc_painting_landscape_9.png
+unilib_misc_painting_landscape_10.png
+unilib_misc_painting_landscape_11.png
+unilib_misc_painting_landscape_12.png
+unilib_misc_painting_landscape_13.png
+unilib_misc_painting_landscape_14.png
+unilib_misc_painting_landscape_15.png
+unilib_misc_painting_landscape_16.png
+unilib_misc_painting_landscape_17.png
+unilib_misc_painting_landscape_18.png
+unilib_misc_painting_landscape_19.png
+unilib_misc_painting_landscape_20.png
+unilib_misc_painting_portrait_1.png
+unilib_misc_painting_portrait_2.png
+unilib_misc_painting_portrait_3.png
+unilib_misc_painting_portrait_4.png
+unilib_misc_painting_portrait_5.png
+unilib_misc_painting_portrait_6.png
+unilib_misc_painting_portrait_7.png
+unilib_misc_painting_portrait_8.png
+unilib_misc_painting_portrait_9.png
+unilib_misc_painting_portrait_10.png
+unilib_misc_painting_portrait_11.png
+unilib_misc_painting_portrait_12.png
+unilib_misc_painting_portrait_13.png
+unilib_misc_painting_portrait_14.png
+unilib_misc_painting_portrait_15.png
+unilib_misc_painting_portrait_16.png
+unilib_misc_painting_portrait_17.png
+unilib_misc_painting_portrait_18.png
+unilib_misc_painting_portrait_19.png
+unilib_misc_painting_portrait_20.png
+unilib_misc_painting_small_5.png
+unilib_misc_painting_small_6.png
+unilib_misc_painting_small_7.png
+unilib_misc_painting_small_8.png
+unilib_misc_painting_small_9.png
+unilib_misc_painting_small_10.png
+unilib_misc_painting_small_11.png
+unilib_misc_painting_small_12.png
+unilib_misc_painting_small_13.png
+unilib_misc_painting_small_14.png
+unilib_misc_painting_small_15.png
+unilib_misc_painting_small_16.png
+unilib_misc_painting_small_17.png
+unilib_misc_painting_small_18.png
+unilib_misc_painting_small_19.png
+unilib_misc_painting_small_20.png
+    Adapted from /textures/xdecor_painting_1.png and the original paintings listed in the
+        "misc_painting_landscape" and "misc_painting_portrait" packages
+unilib_misc_painting_landscape_inv.png
+unilib_misc_painting_portrait_inv.png
+unilib_misc_painting_small_inv.png
+    Adapted from /textures/xdecor_painting_empty.png
+unilib_misc_trampoline_bottom.png
+    Adapted from /textures/xdecor_trampoline.png
+    
 ---------------------------------------------------------------------------------------------------
 -- From:    xdecor (MCLx86 fork, https://github.com/MCLx86/xdecor)
 -- Media:   CC BY 4.0

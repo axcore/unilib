@@ -1,0 +1,90 @@
+---------------------------------------------------------------------------------------------------
+-- From:    xtraores/xtraores
+-- Media:   unknown
+---------------------------------------------------------------------------------------------------
+
+unilib_metal_adamantite_ingot.png
+unilib_metal_geminitium_ingot.png
+unilib_metal_ozymandium_ingot.png
+unilib_metal_planexium_ingot.png
+unilib_metal_rarium_ingot.png
+unilib_metal_sybilline_ingot.png
+unilib_metal_tritonium_ingot.png
+unilib_metal_unobtainium_ingot.png
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
+unilib_metal_adamantite_powder.png
+unilib_metal_ozymandium_powder.png
+unilib_metal_planexium_powder.png
+unilib_metal_rarium_powder.png
+unilib_metal_sybilline_powder.png
+unilib_metal_tritonium_powder.png
+unilib_metal_unobtainium_powder.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Media: Artistic-2.0
+unilib_tool_axe_ozymandium_enchanted_overlay.png
+unilib_tool_axe_ozymandium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_axe_osmium.png 
+unilib_tool_axe_planexium_enchanted_overlay.png
+unilib_tool_axe_planexium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_axe_platinum.png
+unilib_tool_axe_sybilline_enchanted_overlay.png
+unilib_tool_axe_sybilline_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_axe_cobalt.png 
+unilib_tool_drill_geminitium_enchanted_overlay.png
+unilib_tool_drill_geminitium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_drill_geminitinum.png 
+unilib_tool_pick_adamantite_enchanted_overlay.png
+unilib_tool_pick_adamantite_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_pick_adamantite.png 
+unilib_tool_pick_ozymandium_enchanted_overlay.pngv
+unilib_tool_pick_ozymandium_enlightened_overlay.pngv
+    Adapted from /xtraores/textures/xtraores_pick_osmium.png 
+unilib_tool_pick_planexium_enchanted_overlay.png
+unilib_tool_pick_planexium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_pick_platinum.png 
+unilib_tool_pick_sybilline_enchanted_overlay.png
+unilib_tool_pick_sybilline_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_pick_cobalt.png 
+unilib_tool_shovel_adamantite_enchanted_overlay.png
+unilib_tool_shovel_adamantite_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_shovel_adamantite.png 
+unilib_tool_shovel_ozymandium_enchanted_overlay.png
+unilib_tool_shovel_ozymandium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_shovel_osmium.png 
+unilib_tool_shovel_planexium_enchanted_overlay.png
+unilib_tool_shovel_planexium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_shovel_platinum.png 
+unilib_tool_spear_geminitium_enchanted_overlay.png
+unilib_tool_spear_geminitium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_spear_geminitinum.png 
+unilib_tool_spear_gungir_enchanted_overlay.png
+unilib_tool_spear_gungir_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_spear_gungir.png 
+unilib_tool_sword_adamantite_enchanted_overlay.png
+unilib_tool_sword_adamantite_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_spear_adamantite.png 
+unilib_tool_sword_excalibur_enchanted_overlay.png
+unilib_tool_sword_excalibur_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_sword_excalibur.png 
+unilib_tool_sword_geminitium_enchanted_overlay.png
+unilib_tool_sword_geminitium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_sword_geminitinum.png 
+unilib_tool_sword_ozymandium_enchanted_overlay.png
+unilib_tool_sword_ozymandium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_sword_osmium.png 
+unilib_tool_sword_planexium_enchanted_overlay.png
+unilib_tool_sword_planexium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_spear_platinum.png 
+unilib_tool_sword_rarium_enchanted_overlay.png
+unilib_tool_sword_rarium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_sword_rarium.png 
+unilib_tool_sword_sybilline_enchanted_overlay.png
+unilib_tool_sword_sybilline_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_sword_cobalt.png 
+unilib_tool_sword_tritonium_enchanted_overlay.png
+unilib_tool_sword_tritonium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_sword_tritonium.png 
+unilib_tool_sword_unobtainium_enchanted_overlay.png
+unilib_tool_sword_unobtainium_enlightened_overlay.png
+    Adapted from /xtraores/textures/xtraores_sword_unobtainium.png 

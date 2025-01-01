@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------------------------------
+-- From:    minetest_game/fireflies
+-- Media:   CC BY-SA 3.0
+---------------------------------------------------------------------------------------------------
+
+unilib_misc_firefly_orange.png
+unilib_misc_firefly_red.png
+unilib_misc_firefly_white.png
+    Adapted from /textures/fireflies_firefly.png
+unilib_misc_firefly_orange_animated.png
+unilib_misc_firefly_red_animated.png
+unilib_misc_firefly_white_animated.png
+    Adapted from /textures/fireflies_firefly_animated.png
+unilib_vessel_bottle_glass_with_firefly_orange.png
+unilib_vessel_bottle_glass_with_firefly_red.png
+unilib_vessel_bottle_glass_with_firefly_white.png
+    Adapted from /textures/fireflies_bottle.png
+unilib_vessel_bottle_glass_with_firefly_orange_animated.png
+unilib_vessel_bottle_glass_with_firefly_red_animated.png
+unilib_vessel_bottle_glass_with_firefly_white_animated.png
+    Adapted from /textures/fireflies_bottle_animated.png

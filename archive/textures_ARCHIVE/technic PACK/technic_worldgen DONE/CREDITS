@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------
+-- From:    technic/technic_worldgen
+-- Media:   unknown
+---------------------------------------------------------------------------------------------------
+
+unilib_metal_steel_stainless_ingot.png
+    Adapted from minetest_game, /mods/default/textures/default_tin_ingot.png
+    Media: CC BY-SA 3.0
+unilib_metal_brass_powder.png
+unilib_metal_lead_powder.png
+unilib_metal_sulphur_powder.png
+    Adapted from PFAA, /src/main/resources/assets/chemica/textures/items/dust_large.png
+    Media: Artistic-2.0

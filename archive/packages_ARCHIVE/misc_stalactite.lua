@@ -77,28 +77,4 @@ minetest.register_node("mapgen:stalagtite3", {
 	groups = {crumbly=1, oddly_breakable_by_hand=1},
 	sounds = default.node_sound_stone_defaults()
 })
-
-minetest.register_on_generated(function(minp, maxp)
-	if maxp.y < -1000 or maxp.y > 10 then
-		return
-	end
-	local dirt = minetest.find_nodes_in_area(minp, maxp,
-		{"default:stone"})
-	for n = 1, #dirt do
-		if math.random(1, 50) == 1 then
-			local pos = {x = dirt[n].x, y = dirt[n].y, z = dirt[n].z }
-				if minetest.get_node({x=pos.x, y=pos.y-1, z=pos.z}).name == "air" then
-					if math.random(1,2) == 1 then
-					minetest.add_node({x=pos.x, y=pos.y-1, z=pos.z}, {name = "mapgen:stalagtite"})
-					elseif math.random(1,2) == 1 then
-					minetest.add_node({x=pos.x, y=pos.y-1, z=pos.z}, {name = "mapgen:stalagtite1"})
-					elseif math.random(1,2) == 1 then
-					minetest.add_node({x=pos.x, y=pos.y-1, z=pos.z}, {name = "mapgen:stalagtite2"})
-					else
-					minetest.add_node({x=pos.x, y=pos.y-1, z=pos.z}, {name = "mapgen:stalagtite3"})
-					end
-				end
-		end
-	end
-end)
 ]]--
