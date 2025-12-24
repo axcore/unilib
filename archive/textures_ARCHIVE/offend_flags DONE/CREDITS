@@ -63,8 +63,6 @@ unilib_flag_malta.png
     Public domain
 unilib_flag_manx.png
     Public domain
-unilib_flag_miner.png
-    Public domain
 unilib_flag_minetest.png
     Public domain
 unilib_flag_moldova.png
@@ -114,6 +112,44 @@ unilib_flag_usa.png
     Public domain
 unilib_flag_wales.png
     Public domain
+
+unilib_flag_item_pickaxe.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_diamondpick.png
+    Media: CC BY-SA 3.0
+unilib_flag_item_apple.png
+    Adapted from minetest_game, /mods/default/textures/default_apple.png
+    Media: CC BY-SA 3.0
+unilib_flag_item_axe.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_diamondaxe.png
+    Media: CC BY-SA 3.0
+unilib_flag_item_bucket.png
+    Adapted from minetest_game, /mods/bucket/textures/bucket_water.png
+    Media: CC BY-SA 3.0
+unilib_flag_item_flower.png
+    Adapted from minetest_game, /mods/flowers/textures/flowers_tulip.png
+    Media: CC BY-SA 3.0
+unilib_flag_item_hoe.png
+    Adapted from minetest_game, /mods/default/farming/farming_tool_diamondhoe.png
+    Media: CC BY-SA 3.0
+unilib_flag_item_ingot.png
+    Adapted from minetest_game, /mods/default/textures/default_gold_ingot.png
+    Media: CC BY-SA 3.0
+unilib_flag_item_sapling.png
+    Adapted from minetest_game, /mods/default/textures/default_pine_sapling.png
+    Media: CC BY-SA 3.0
+unilib_flag_item_shovel.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_diamondshovel.png
+    Media: CC BY-SA 3.0
+unilib_flag_item_sword.png
+    Adapted from minetest_game, /mods/default/textures/default_tool_diamondsword.png
+    Media: CC BY-SA 3.0
+unilib_flag_item_torch.png
+    Adapted from minetest_game, /mods/default/textures/default_torch_on_floor.png
+    Media: CC BY-SA 3.0
+unilib_flag_item_wheat.png
+    Adapted from minetest_game, /mods/default/farming/farming_wheat.png
+    Media: CC BY-SA 3.0    
+
 unilib_item_cartridge_ink_blue.png
     Adapted from roads, /labels/textures/streets_white_cartridge.png
     Media: CC-BY-SA 3.0 Unported

@@ -1397,6 +1397,24 @@ unilib_sand_volcanic_fine.png
     Original to unilib
 unilib_sand_volcanic_glass.png
     Original to unilib
+unilib_soil_antipodean_overlay.png
+    Adapted from minetest_game, /mods/farming/textures/farming_soil.png
+    Media: CC BY-SA 3.0
+unilib_soil_antipodean_wet_overlay.png
+    Adapted from minetest_game, /mods/farming/textures/farming_soil_wet.png
+    Media: CC BY-SA 3.0
+unilib_soil_black_overlay.png
+    Adapted from minetest_game, /mods/farming/textures/farming_soil.png
+    Media: CC BY-SA 3.0
+unilib_soil_black_wet_overlay.png
+    Adapted from minetest_game, /mods/farming/textures/farming_soil_wet.png
+    Media: CC BY-SA 3.0
+unilib_soil_brown_overlay.png
+    Adapted from minetest_game, /mods/farming/textures/farming_soil.png
+    Media: CC BY-SA 3.0
+unilib_soil_brown_wet_overlay.png
+    Adapted from minetest_game, /mods/farming/textures/farming_soil_wet.png
+    Media: CC BY-SA 3.0
 unilib_stone_desert_powder.png
     Adapted from technic, /technic/textures/technic_stone_dust.png
     Media: unknown
